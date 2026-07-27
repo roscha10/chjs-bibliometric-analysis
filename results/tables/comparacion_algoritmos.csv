@@ -1,0 +1,3 @@
+algoritmo,ARI_vs_kmeans,n_clusters
+DBSCAN,0.0,1
+Jerárquico (Ward),0.3365349563860308,7

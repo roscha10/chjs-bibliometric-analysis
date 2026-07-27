@@ -1,0 +1,8 @@
+cluster,T1,T2,T3,T4,T5,T6
+0,skew,distribut,normal,skew normal,symmetr,normal distribut
+1,model,bayesian,mix,time,linear,mix model
+2,test,imag,valu,tabl,good,critic
+3,distribut,model,likelihood,estim,paramet,maximum
+4,spatial,spatial autocorrel,variabl,autocorrel,random,random variabl
+5,estim,mean,popul,error,mean squar,sampl
+6,chart,length,monitor,percentil,run length,shewhart
