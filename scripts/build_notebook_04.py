@@ -298,8 +298,12 @@ def representatives_by_cluster(Z, labels, df_meta):
     for c in sorted(set(labels)):
         idx = np.where(labels == c)[0]
         centroid = Z[idx].mean(axis=0, keepdims=True)
-        nearest, dist = pairwise_distances_argmin_min(centroid, Z[idx], metric="euclidean")
-        order = np.argsort(dist)
+        # Distancia euclidea de CADA documento del cluster al centroide (no solo la minima):
+        # pairwise_distances_argmin_min(centroid, Z[idx]) devuelve un unico valor (el mas
+        # cercano), por lo que ordenar ese array de 1 elemento con argsort es un no-op que
+        # termina seleccionando idx[0] (el primer documento por indice, no el mas cercano).
+        dists = np.linalg.norm(Z[idx] - centroid, axis=1)
+        order = np.argsort(dists)
         best = idx[order][0]
         rows.append({
             "cluster": c, "doc_id": df_meta.loc[best, "doc_id"],
