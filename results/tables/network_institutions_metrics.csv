@@ -1,0 +1,180 @@
+﻿node,degree,strength,betweenness,closeness,clustering,community
+Universidade Federal de Pernambuco,23,27,0.08858101102435513,0.475,0.024607434344854583,38
+Universidade de S˜ao Paulo,20,31,0.10636598319896741,0.5066666666666667,0.03248296173512751,25
+Pontificia Universidad Catolica de Chile,13,16,0.050138597939016906,0.4393063583815029,0.03988527514224305,1
+Universidade de Brasília,10,10,0.027571467868554137,0.29118773946360155,0.03888888888888889,24
+Universidade Estadual de Maringá,8,10,0.013828053915656275,0.4,0.08492647139784182,25
+University of Connecticut,7,7,0.01919211155547091,0.36538461538461536,0.05952380952380952,25
+Persian Gulf University,7,7,0.013806893924966673,0.3377777777777778,0.07142857142857142,38
+Universidade Estadual de Campinas,7,7,0.009823525677648702,0.34234234234234234,0.05071334583208181,25
+Hacettepe University,7,7,0.004919697835332953,0.3377777777777778,0.11904761904761904,38
+A.C.Camargo Cancer Center,6,6,0.0005078397765504983,0.0,0.11666666666666667,21
+Universidade Federal de Rio Grande do Norte,5,5,0.024693709134767983,0.37254901960784315,0.075,24
+Universidade Federal de Amazonas,5,5,0.0004020398231024778,0.2846441947565543,0.125,24
+Universidade Federal de S˜ao Carlos,4,5,0.020313591062019933,0.37073170731707317,0.125,24
+Universidade Federal da Bahia,4,7,0.004792737891195328,0.3438914027149321,0.13228342099734994,25
+Universidade Estadual do Oeste do Paraná,4,5,0.0008622696206013662,0.40425531914893614,0.24966344569868912,25
+University of Adelaide,4,4,0.0005078397765504983,0.0,0.08333333333333333,23
+Universidad Nacional de Colombia,4,4,0.0005078397765504983,0.0,0.08333333333333333,23
+Université de Caen Basse-Normandie,4,4,0.00019043991620643687,0.0,0.13583004374561972,33
+Interdisciplinary Laboratory of Social Statistics,4,6,2.1159990689604095e-05,0.31020408163265306,0.2933201749824788,1
+Université Catholique de Louvain,4,6,2.1159990689604095e-05,0.31020408163265306,0.2933201749824788,1
+Universidade Federal of Espírito Santo,4,4,0.0,0.0,0.25,21
+Cedars-Sinai Medical Center,4,4,0.0,0.0,0.25,21
+Fundação Oncocentro de São Paulo,4,4,0.0,0.0,0.25,21
+Universidade Federal of São Carlos,4,4,0.0,0.0,0.25,21
+Quaid-i-Azam University,4,4,0.0,0.33043478260869563,0.25,38
+Nanjing University of Information Science and Technology,4,4,0.0,0.33043478260869563,0.25,38
+VSB - Technical University of Ostrava,4,4,0.0,0.33043478260869563,0.25,38
+Universidad Nacional de Cordoba,3,3,0.009458515838253032,0.3438914027149321,0.0,3
+CNR IMATI,3,3,0.004760997905160922,0.2714285714285714,0.08333333333333333,25
+Universidade do Minho,3,3,0.004760997905160922,0.22822822822822822,0.08333333333333333,24
+Universidade Federal de Minas Gerais,3,3,0.004760997905160922,0.2889733840304182,0.08333333333333333,25
+Universidad de Valparaíso,3,3,0.00012695994413762458,0.0,0.08333333333333333,31
+Universidade Federal de Paraná,3,4,7.405996741361435e-05,0.3470319634703196,0.2645668419946999,25
+Universidade of Brasília,3,4,0.0,0.38578680203045684,0.3670434704000282,25
+McMaster University,3,3,0.0,0.2825278810408922,0.25,24
+Benha University,3,3,0.0,0.2576271186440678,0.25,38
+Marquette University,3,3,0.0,0.2576271186440678,0.25,38
+St. Anthony’s College,3,4,0.0,0.3114754098360656,0.2933201749824788,25
+Pontificia Universidad Catolica del Perú,3,3,0.0,0.35023041474654376,0.25,25
+Universidad del Pacífico,3,3,0.0,0.35023041474654376,0.25,25
+University of Manchester,3,3,0.0,0.3114754098360656,0.27166008749123943,25
+2Millenium Nucleus on Intergenerational Mobility: From Modelling to Policy,3,3,0.0,0.3089430894308943,0.31498026247371824,1
+Cochin University of Science and Technology,3,4,0.0,0.0,0.2933201749824788,33
+University College,3,3,0.0,0.0,0.27166008749123943,33
+University of Kerala,3,4,0.0,0.0,0.2933201749824788,33
+Modelling to Policy (MOVI),3,3,0.0,0.3089430894308943,0.31498026247371824,1
+Universidade Federal of Rondônia,3,5,0.0,0.3781094527363184,0.42308680356058437,38
+State University of Maringá,3,5,0.0,0.3781094527363184,0.42308680356058437,38
+Texas A&M University,2,2,0.00939503586618422,0.3114754098360656,0.0,1
+Banco do Nordeste do Brasil S.A,2,2,0.004760997905160922,0.3261802575107296,0.0,38
+Purdue University,2,2,0.004760997905160922,0.23974763406940064,0.0,1
+Universidade Federal of Rio Grande do Norte,2,2,0.004760997905160922,0.3261802575107296,0.0,38
+Universidade Federal de Ceará,2,2,0.001184959478617829,0.34080717488789236,0.0,25
+Sidi Bel Abbes University,2,2,6.347997206881229e-05,0.0,0.0,27
+Universidad de Talca,2,2,0.0,0.3076923076923077,0.25,1
+IBM,2,2,0.0,0.2704626334519573,0.25,25
+Universidad de Concepcion,2,2,0.0,0.3076923076923077,0.25,1
+Forman Christian College University,2,2,0.0,0.0,0.25,6
+Pohang University of Science and Technology (POSTECH),2,2,0.0,0.0,0.25,6
+"National College of Business Administration & Economics, Lahore",2,2,0.0,0.0,0.25,6
+University of Calgary,2,2,0.0,0.0,0.25,10
+Yazd University,2,2,0.0,0.0,0.25,10
+Shahid Bahonar University,2,2,0.0,0.0,0.25,10
+Universidade Federal de Piauí,2,2,0.0,0.3247863247863248,0.25,38
+Universidade Federal de Rio Grande do Sul,2,2,0.0,0.3247863247863248,0.25,38
+University of Sharjah,2,2,0.0,0.0,0.25,15
+Qatar University,2,2,0.0,0.0,0.25,15
+Al-Hussein Bin Talal University,2,2,0.0,0.0,0.25,15
+Oklahoma State University,2,2,0.0,0.0,0.25,16
+University of Missouri,2,2,0.0,0.0,0.25,16
+Washington University School of Medicine,2,2,0.0,0.0,0.25,16
+Universidad de Las Palmas de Gran Canaria,2,3,0.0,0.0,0.31498026247371824,18
+University of Melbourne,2,3,0.0,0.0,0.31498026247371824,18
+Malayer University,2,2,0.0,0.33043478260869563,0.25,38
+"Hindu College, Guntur",2,2,0.0,0.0,0.25,21
+Shri Vishnu Engineering College for Women,2,2,0.0,0.0,0.25,21
+McGill University,2,2,0.0,0.0,0.25,22
+Universidade Federal de Rio de Janeiro,2,2,0.0,0.0,0.25,22
+Centro Federal de Educa¸c˜ao Tecnologica Celso Suckow da Fonseca,2,2,0.0,0.0,0.25,22
+Universidade Federal de Mato Grosso de Sul,2,2,0.0,0.34080717488789236,0.39685026299204984,25
+Universidad del Norte,2,2,0.0,0.0,0.25,23
+The Australian National University,2,2,0.0,0.0,0.25,23
+University of Mazandaran,2,2,0.0,0.25418060200668896,0.25,38
+University of North Carolina Wilmington,2,2,0.0,0.25418060200668896,0.25,38
+Metropolitan Technological Institute,2,2,0.0,0.0,0.25,23
+State University of Marigá,2,2,0.0,0.34080717488789236,0.39685026299204984,25
+University of Texas at El Paso,2,2,0.0,0.2814814814814815,0.25,24
+Goverment Sadiq Egerton College Bahawalpur,2,2,0.0,0.3247863247863248,0.25,38
+University of Western Ontario,2,2,0.0,0.3247863247863248,0.25,38
+Universidade Federal de Santa Maria,2,2,0.0,0.2753623188405797,0.25,24
+Universidad Austral de Chile,2,2,0.0,0.0,0.25,31
+Universidad Andrés Bello,2,2,0.0,0.0,0.25,31
+Universidade of Campinas,2,2,0.0,0.22686567164179106,0.25,24
+Rede Sarah de Hospitais de Reabilitação,2,2,0.0,0.22686567164179106,0.25,24
+Universidad CUNEF,2,2,0.0,0.0,0.31498026247371824,18
+Punjab,2,2,0.0,0.0,0.25,36
+Deakin University,2,2,0.0,0.0,0.25,36
+Xiamen University,2,2,0.0,0.0,0.25,36
+Pontificia Universidad Católica de Valparaíso,2,2,0.0,0.2275449101796407,0.25,24
+Fundación Universitaria Los Libertadores,2,2,0.0,0.0,0.25,23
+ECLAC,2,2,0.0,0.0,0.25,23
+Institut National Polytechnique Félix Houphouët-Boigny,2,2,0.0,0.0,0.25,44
+Université Nangui Abrogoua,2,2,0.0,0.0,0.25,44
+Université Peleforo Gon Coulibaly,2,2,0.0,0.0,0.25,44
+Instituto Tecnologico Autonomo de México,1,1,0.0,0.0,0.0,2
+Universidad Nacional Autonoma de México,1,1,0.0,0.0,0.0,2
+University of North Carolina at Chapel Hill,1,1,0.0,0.0,0.0,4
+North Carolina Central University,1,1,0.0,0.0,0.0,4
+Universidad Autonoma Agraria Antonio Narro,1,1,0.0,0.0,0.0,5
+Universidad de Granada,1,1,0.0,0.0,0.0,5
+Universidade de Coimbra,1,1,0.0,0.18627450980392157,0.0,24
+Instituto Tecnologico de Buenos Aires,1,1,0.0,0.0,0.0,7
+"Cámara de Control de Medicion de Audiencia, Buenos Aires",1,1,0.0,0.0,0.0,7
+CONICET,1,1,0.0,0.25675675675675674,0.0,3
+Universidade Federal de Alagoas,1,1,0.0,0.32340425531914896,0.0,38
+Politecnico di Milano,1,1,0.0,0.2140845070422535,0.0,25
+Payame Noor University,1,1,0.0,0.0,0.0,33
+IIT Gauhati,1,1,0.0,0.0,0.0,8
+IIT Kanpur,1,1,0.0,0.0,0.0,8
+Università di Padova,1,1,0.0,0.0,0.0,9
+Università di Perugia,1,1,0.0,0.0,0.0,9
+University of Rostock,1,1,0.0,0.3064516129032258,0.0,1
+Universidade Estadual de Feira de Santana,1,1,0.0,0.32340425531914896,0.0,38
+Baghdad University,1,1,0.0,0.0,0.0,11
+Ulm University,1,1,0.0,0.0,0.0,11
+Piazza Arechi II,1,1,0.0,0.0,0.0,12
+Viale Maresciallo Pilsudski,1,1,0.0,0.0,0.0,12
+University of Leeds,1,1,0.0,0.0,0.0,13
+University of Benghazi,1,1,0.0,0.0,0.0,13
+IniSEB Centro Universitrio,1,1,0.0,0.3377777777777778,0.0,25
+Universidade Federal de Lavras,1,1,0.0,0.0,0.0,14
+Universidade Federal of Alfenas,1,1,0.0,0.0,0.0,14
+Lund University,1,1,0.0,0.0,0.0,17
+Orebro University,1,1,0.0,0.0,0.0,17
+Cairo University,1,1,0.0,0.19387755102040816,0.0,1
+University of Petroleum and Energy Studies,1,1,0.0,0.0,0.0,19
+Banaras Hindu University,1,1,0.0,0.0,0.0,19
+Universidad Técnica Federico Santa María,1,1,0.0,0.25675675675675674,0.0,3
+Lincoln University,1,1,0.0,0.0,0.0,20
+Harvard University,1,1,0.0,0.0,0.0,20
+Universidade Federal of Minas Gerais,1,1,0.0,0.25675675675675674,0.0,25
+Universidade Federal of Mato Grosso do Sul,1,1,0.0,0.3377777777777778,0.0,25
+State University Julio de Mesquita Filho,1,1,0.0,0.24675324675324675,0.0,38
+Universidade Estadual da Paraíba,1,1,0.0,0.0,0.0,26
+Universidade Federal de Campina Grande,1,1,0.0,0.0,0.0,26
+University of Madras,1,1,0.0,0.24675324675324675,0.0,38
+University of California,1,1,0.0,0.28679245283018867,0.0,25
+King Khalid University,1,1,0.0,0.0,0.0,27
+Maastricht University,1,1,0.0,0.3377777777777778,0.0,25
+Universidad de Concepción,1,1,0.0,0.0,0.0,31
+Universidad ORT,1,1,0.0,0.0,0.0,28
+Universidad de la República,1,1,0.0,0.0,0.0,28
+Victoria University of Wellington,1,1,0.0,0.32340425531914896,0.0,38
+"University of Los Andes, Mérida",1,1,0.0,0.0,0.0,29
+"Data Science Consulting, Ibarra",1,1,0.0,0.0,0.0,29
+Universidad Autónoma de Guerrero,1,1,0.0,0.0,0.0,30
+"IIMAS, UNAM",1,1,0.0,0.0,0.0,30
+Instituto Federal de Goiás,1,1,0.0,0.2261904761904762,0.0,24
+"Laboratoire Modélisation Mathématique, Analyse Harmonique",1,1,0.0,0.0,0.0,27
+University of Southern Denmark,1,1,0.0,0.0,0.0,32
+University of Adrar,1,1,0.0,0.0,0.0,32
+Blida 1 University,1,1,0.0,0.0,0.0,34
+National Higher School of Hydraulic,1,1,0.0,0.0,0.0,34
+Govt. Islamia College Railway Road,1,1,0.0,0.0,0.0,35
+University of Veterinary and Animal Sciences Lahore,1,1,0.0,0.0,0.0,35
+Indian Statistical Institut,1,1,0.0,0.0,0.0,37
+University of Calcutta,1,1,0.0,0.0,0.0,37
+Gauhati University,1,1,0.0,0.0,0.0,39
+Dibrugarh University,1,1,0.0,0.0,0.0,39
+University of Birjand,1,1,0.0,0.0,0.0,40
+University of Gonabad,1,1,0.0,0.0,0.0,40
+Universidade Federal de Uberlândia,1,1,0.0,0.22485207100591717,0.0,25
+University of Baghdad,1,1,0.0,0.0,0.0,41
+University of Sumer,1,1,0.0,0.0,0.0,41
+Universidad de San Buenaventura,1,1,0.0,0.0,0.0,42
+Universidad EAFIT,1,1,0.0,0.0,0.0,42
+University of West Attica,1,1,0.0,0.0,0.0,43
+"Universidade Aberta, Lisboa",1,1,0.0,0.0,0.0,43
+Caja de Compensación Los Andes,1,1,0.0,0.3064516129032258,0.0,1
