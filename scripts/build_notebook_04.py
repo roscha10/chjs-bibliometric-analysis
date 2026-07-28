@@ -177,6 +177,49 @@ print(f"Matriz TF-IDF: {X_tfidf.shape[0]} documentos x {X_tfidf.shape[1]} térmi
 """)
 
 # ----------------------------------------------------------------------
+md(r"""### Figuras de diagnóstico del corpus (Figuras 4.23 y 4.24)
+
+A partir del corpus preprocesado se generan dos visualizaciones de diagnóstico citadas en la
+Sección 4.4 de la tesis: el gráfico de términos más frecuentes (Figura 4.23) y la nube de palabras
+(Figura 4.24). Ambas se construyen sobre las frecuencias de tokens del texto ya limpio y estemizado.
+""")
+
+code(r"""
+from collections import Counter
+from wordcloud import WordCloud
+
+# Frecuencia de términos sobre el corpus preprocesado (tokens de text_clean)
+token_counter = Counter()
+for txt in df["text_clean"]:
+    token_counter.update(txt.split())
+
+# --- Figura 4.23: términos más frecuentes ---
+TOP_N = 20
+terms, freqs = zip(*token_counter.most_common(TOP_N))
+y = np.arange(len(terms))[::-1]
+fig, ax = plt.subplots(figsize=(10, 6))
+ax.barh(y, freqs, color="#4c72b0")
+ax.set_yticks(y)
+ax.set_yticklabels(terms)
+ax.set_xlabel("Frecuencia (nº de ocurrencias en el corpus)")
+ax.set_title(f"Términos más frecuentes del corpus (top {TOP_N})")
+fig.tight_layout()
+fig.savefig(FIGS_DIR / "fig_4_23_top_terms.png", dpi=160)
+plt.show()
+
+# --- Figura 4.24: nube de palabras ---
+wc = WordCloud(width=1200, height=600, background_color="white",
+               max_words=200, collocations=False).generate_from_frequencies(token_counter)
+fig, ax = plt.subplots(figsize=(12, 6))
+ax.imshow(wc, interpolation="bilinear")
+ax.axis("off")
+ax.set_title("Nube de palabras del corpus")
+fig.tight_layout()
+fig.savefig(FIGS_DIR / "fig_4_24_wordcloud.png", dpi=160)
+plt.show()
+""")
+
+# ----------------------------------------------------------------------
 md("## 3. Reducción semántica: LSA (Truncated SVD)")
 
 code(r"""
