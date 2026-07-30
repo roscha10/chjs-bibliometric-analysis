@@ -18,6 +18,8 @@ joblib>=1.4
 
 # Modelado y clusterización
 scikit-learn>=1.6
+statsmodels>=0.14
+pymannkendall>=1.4
 
 # Redes de colaboración
 networkx>=3.2

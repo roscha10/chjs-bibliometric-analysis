@@ -425,26 +425,48 @@ df_compare
 """)
 
 # ----------------------------------------------------------------------
-md("## 10. Evolución temporal por cluster (Tabla 4.8, Tabla 4.9)")
+md(r"""## 10. Evolución temporal por cluster (Tabla 4.8, Tabla 4.9)
+
+Las series anuales por cluster son cortas (16 años) y de conteos bajos, por lo que ajustar una
+regresión lineal por mínimos cuadrados es frágil. La existencia de tendencia se evalúa de forma
+**inferencial** con la prueba no paramétrica de **Mann-Kendall** (pendiente de Sen), corrigiendo por
+comparaciones múltiples con **Benjamini-Hochberg** (siete clusters) y confirmando con un **GLM de
+Poisson** con offset por el total anual. Resultado: **ninguna línea temática muestra una tendencia
+estadísticamente significativa** (Tabla 4.9, Sección 4.4.8.2 de la tesis).
+""")
 
 code(r"""
+import pymannkendall as mk
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+from statsmodels.stats.multitest import multipletests
+
 df_valid_year = df.dropna(subset=["year"]).copy()
 df_valid_year["year"] = df_valid_year["year"].astype(int)
 
 tabla_year_cluster = pd.crosstab(df_valid_year["year"], df_valid_year["cluster"])
 tabla_year_cluster.to_csv(TABLES_DIR / "tabla_4_8_cluster_por_anio.csv")
 
-trend_rows = []
-years_arr = tabla_year_cluster.index.to_numpy().reshape(-1, 1)
+years = tabla_year_cluster.index.to_numpy()
+total = tabla_year_cluster.sum(axis=1).to_numpy().astype(float)
+
+rows = []
 for c in tabla_year_cluster.columns:
-    y = tabla_year_cluster[c].to_numpy()
-    model = LinearRegression().fit(years_arr, y)
-    trend_rows.append({
-        "cluster": c, "pendiente": model.coef_[0],
-        "R2": model.score(years_arr, y),
-    })
-df_trends = pd.DataFrame(trend_rows).sort_values("pendiente", ascending=False)
-df_trends.to_csv(TABLES_DIR / "tabla_4_9_tendencias.csv", index=False)
+    y = tabla_year_cluster[c].to_numpy().astype(float)
+    r = mk.original_test(y)
+    dfc = pd.DataFrame({"y": y.astype(int), "yr": years - years.mean(), "tot": total})
+    dfc = dfc[dfc["tot"] > 0]
+    m = smf.glm("y ~ yr", data=dfc, family=sm.families.Poisson(),
+                offset=np.log(dfc["tot"])).fit()
+    rows.append({"cluster": c, "tau": r.Tau, "sen_slope": r.slope,
+                 "mk_p": r.p, "poisson_p": m.pvalues["yr"]})
+
+df_trends = pd.DataFrame(rows)
+df_trends["mk_p_bh"] = multipletests(df_trends["mk_p"], alpha=0.05, method="fdr_bh")[1]
+df_trends["significativo_bh"] = df_trends["mk_p_bh"] < 0.05
+df_trends.round(3).to_csv(TABLES_DIR / "tabla_4_9_mannkendall.csv", index=False)
+
+print(f"Clusters con tendencia significativa (Mann-Kendall + BH): {int(df_trends.significativo_bh.sum())} de 7")
 df_trends.round(3)
 """)
 
