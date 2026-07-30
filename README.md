@@ -16,7 +16,8 @@ notebooks/
 ├── 01_extraccion_metadatos.ipynb        # Objetivo transversal: OCR + extracción de metadatos (Anexo A de la tesis)
 ├── 02_tendencias_tematicas.ipynb        # Objetivo Específico 1 — Sección 4.2
 ├── 03_redes_colaboracion.ipynb          # Objetivo Específico 2 — Sección 4.3
-└── 04_clusterizacion_tematica.ipynb     # Objetivo Específico 3 — Sección 4.4
+├── 04_clusterizacion_tematica.ipynb     # Objetivo Específico 3 — Sección 4.4
+└── 05_robustez_identificabilidad.ipynb  # Estabilidad multi-semilla, PAC y co-asociación — Sección 4.4.7.3
 
 data/
 └── reorganized_data_c_CLEAN_NORMALIZADO.json   # Metadatos normalizados (177 artículos)
