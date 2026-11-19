@@ -1,0 +1,4925 @@
+{
+ "pdfs_chilean\\Alzaid_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Omair*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Abdulhamid A. Alzaid, Maha A. Omair* and Weaam. M. Alhadlaq"
+  ]
+ },
+ "pdfs_chilean\\Al-Rawwash_etal(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Al-Rawwash\"*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Alodat?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Odat*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "M. Al-Rawwash\"*, M. T. Alodat?, and N. Odat*"
+  ]
+ },
+ "pdfs_chilean\\Arellano-Valle_etal(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Arellano-Valle!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Bolfarine”,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Iglesias'",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Viviani?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Reinaldo B. Arellano-Valle!* , Heleno Bolfarine?, Pilar L. Iglesias! and Paola Viviani*"
+  ]
+ },
+ "pdfs_chilean\\Afify_etal(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Afify!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Altun?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Alizadeh*,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "Ozel?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Hamedani*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ahmed Z. Afify', Emrah Altun?*, Morad Alizadeh?, Gamze Ozel? and G.G. Hamedani*"
+  ]
+ },
+ "pdfs_chilean\\Arellano-Valle_Genton(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Arellano-Valle!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Genton?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Reinaldo B. Arellano-Valle! and Marc G. Genton?*"
+  ]
+ },
+ "pdfs_chilean\\Arellano-Valle_Richter(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "ARELLANO-VALLE!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "RICHTER?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "REINALDO B. ARELLANO-VALLE! AND WOLF-DIETER RICHTER?*"
+  ]
+ },
+ "pdfs_chilean\\Aslam_etal(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "ASLAM!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Jun?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "LEE?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "AHMAD?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "RASOOL*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "MUHAMMAD ASLAM >*, CHI-HYucK JUN\", HYESEON LEE*, MUNIR AHMAD\" AND",
+   "MUJAHID RASOOL*"
+  ]
+ },
+ "pdfs_chilean\\Aykroyd_Al-Gezeri(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Aykroyd!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Al-Gezeri?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Robert G. Aykroyd!* and Salem M. Al-Gezeri?"
+  ]
+ },
+ "pdfs_chilean\\Azevedo_Oliveira(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "AZEVEDO!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "OLIVEIRA?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CECILIA AZEVEDO!* AND PAULO E. OLIVEIRA?"
+  ]
+ },
+ "pdfs_chilean\\Azzalini_Regoli(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "AZZALINI”*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "REGOLI?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "ADELCHI AZZALINI’* AND GIULIANA REGOLI?"
+  ]
+ },
+ "pdfs_chilean\\Batanero_Diaz(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "BATANERO!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "DÍAZ?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CARMEN BATANERO!* AND CARMEN D{Az?"
+  ]
+ },
+ "pdfs_chilean\\Bonat_etal(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Bonat!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Jr!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Shimakura!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Wagner Hugo Bonat!*, Paulo Justiniano Ribeiro Jr! and Silvia Emiko Shimakura!"
+  ]
+ },
+ "pdfs_chilean\\Bonat_etal(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Bonat*,",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Wagner Hugo Bonat*, José Evandeilton Lopes, Silvia Emiko Shimakura",
+   "and Paulo Justiniano Ribeiro Jr"
+  ]
+ },
+ "pdfs_chilean\\Calsavara_etal(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Calsavara!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Tomazella?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Fogo?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Vinicius F. Calsavara!, Vera L. D. Tomazella?* and José C. Fogo?"
+  ]
+ },
+ "pdfs_chilean\\Borssoi_etal(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Borssor',",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BASTIANI’,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "URIBE-OPAZO?*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "GALEA4",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "JOELMIR A. Borssor', FERNANDA DE BASTIANI’,",
+   "MIGUEL A. URIBE-OPAZO?* AND MANUEL GALEA*"
+  ]
+ },
+ "pdfs_chilean\\Case_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "B.S.1*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "H.L.?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "A.3,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "A.M.3",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Case, B.S.1*, Buckley, H.L.?, Barker Plotkin, A.3, Ellison, A.M.3"
+  ]
+ },
+ "pdfs_chilean\\Castro-Kuriss(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CASTRO-Kuriss!?",
+    "leido": "1,2",
+    "indices": [
+     "1",
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CLAUDIA CastTRo-Kuriss!?"
+  ]
+ },
+ "pdfs_chilean\\Chesneau_Hosseinioun(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CHESNEAU!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "HOSSEINIOUN?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CHRISTOPHE CHESNEAU!* AND NARGESS HOSSEINIOUN?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-01-01.pdf": {
+  "pagina": 2,
+  "grupos": [
+   {
+    "palabra": "CARVALHO!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SILVA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "BORRIES?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "PINHO!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BORRIES*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "JHONNATA B. DE CARVALHO! *, MURILO C. SILVA?, GEORGE F. VON BORRIES?,",
+   "ANDRE L.S. DE PINHO! and RICARDO F. VON BORRIES*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-01-02.pdf": {
+  "pagina": 2,
+  "grupos": [
+   {
+    "palabra": "Bentres!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "MAEHARA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "LacHos*,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "BOLFARINE*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "Luis BENITES!*, Rocio MAEHARA?, VICTOR H. Lacuos®, and HELENO BOLFARINE*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-01-03.pdf": {
+  "pagina": 2,
+  "grupos": [
+   {
+    "palabra": "MENDONGA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BARROS?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CAMPOS?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "EDNÁRIO MENDONGA!, MICHELLI BARROS?*, and JOELSON CAMPOS?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-01-04.pdf": {
+  "pagina": 2,
+  "grupos": [
+   {
+    "palabra": "CHAVES!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "AZEVEDO!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "VILCA-LABRA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "NOBRE?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "NATHALIA L. CHAVES!, Cato L. N. AZEVEDO!*, FILIDOR VILCA-LABRA!,",
+   "and JUVENCIO S. NOBRE?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-01-05.pdf": {
+  "pagina": 2,
+  "grupos": [
+   {
+    "palabra": "CORDEIRO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "MANSOOR?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Provost?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Gauss M. CORDEIRO!, M. MANSOOR?* and SERGE B. Provost?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-02-01.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "FERREIRA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SHIMIZU?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "SUZUKI’,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "LOUZADA?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "PAULO H. FERREIRA!*, TACIANA K.O. SHIMIZU?, ADRIANO K. SUZUKI’,",
+   "and FRANCISCO LOUZADA?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-02-02.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "HORTA!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "ZIEGELMANN!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "EDUARDO HORTA!* and FLAVIO ZIEGELMANN!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-02-03.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "SILVA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "TACONELI”*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "ZEVIANI’,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "GUILHERME PARREIRA DA SILVA!, CESAR AUGUSTO TACONELI\"*, WALMES MARQUES",
+   "ZEVIANI!, and ISADORA APARECIDA SPRENGOSKI DO NASCIMENTO"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-02-04.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "LOPES!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CANCHO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "LOUZADA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Lucas PEREIRA LOPES!*, VICENTE GARIBAY CANCHO!,",
+   "and FRANCISCO LOUZADA!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-10-02-05.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "MECHAB!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "HAMIDI!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BENAISSA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "BOUBAKER MECHAB!*, NESRINE HAMIDI!, and SAMIR BENAISSA!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-01-01.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "FERNANDEZ!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ANDRADE?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Luz MILENA ZEA FERNANDEZ! and THIAGO A. N. DE ANDRADE?*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-01-03.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "WAGALA*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "ADOLPHUS WAGALA*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-01-02.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "SRIPRIYA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SRINIVASAN!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SUBBIAH?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "THODUR PARTHASARATHY SRIPRIYA!*, MAMANDUR RANGASWAMY SRINIVASAN}, and",
+   "MEENAKSHISUNDARAM SUBBIAH?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-01-04.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "MAZUCHELI',",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BAPAT?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "MENEZES!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "JOSMAR MAZUCHELI!, SUDEEP R. BAPAT?*, and ANDRE FELIPE B. MENEZES!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-02-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "ALVES!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "FERREIRA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "HENRIQUE JOSE DE PAULA ALVES!* and DANIEL FURTADO FERREIRA!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-02-01.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "ALMANJAHIE!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ATTOUCH?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "FETITAH?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "IBRAHIM M. ALMANJAHIE!, MOHAMMED KADI ATTOUCH?, OMAR FETITAH?, and",
+   "HAYAT LOUHAB?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-02-02.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "OLIVEIRA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "PERES!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ACHCAR!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "DAVARZANI?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "RICARDO PUZIOL DE OLIVEIRA!*, MARCOS VINICIUS DE OLIVEIRA PERES!,",
+   "JORGE ALBERTO ACHCAR!, and NASSER DAVARZANI?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-02-04.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "MAZUCHELI'*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "MENEZES”,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "DEY*,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "NADARAJAH*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "JOSMAR MAZUCHELI'*, ANDRE F.B. MENEZES\", SANKU DEv*, and SARALEES NADARAJAH*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-02-05.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "LEITE!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BorGES!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SILVA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "OsPINA!*",
+    "leido": "1,",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "ANDRE LEITE!, ABEL BorGES!, GEIZA SILVA! and RAYDONAL Ospinal*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-11-02-06.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "FIGUEROA-ZUNIGA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SANHUEZA-PARKES!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "LAGOS-ÁLVAREZ!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "IBACACHE-PULGAR?*3",
+    "leido": "2,3",
+    "indices": [
+     "2",
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "JORGE FIGUEROA-ZUNIGA!*, RODRIGO SANHUEZA-PARKES!, BERNARDO LAGOS-ÁLVAREZ!,",
+   "and GERMAN IBACACHE-PULGAR??"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-01-01.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "BURKHALTER*",
+    "leido": "",
+    "indices": []
+   },
+   {
+    "palabra": "YUHLONG",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "RUTH BURKHALTER* and YUHLONG LIO"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-01-02.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "LÓPEZ-VÁZQUEZ!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "TASISTRO?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "HOCHSZTAIN*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "CARLOS LÓPEZ-VÁZQUEZ!*, ANDROMACA TASISTRO?, and ESTHER HOCHSZTAIN*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-01-06.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CoA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "PoNSOT?3*",
+    "leido": "2,3,*",
+    "indices": [
+     "2",
+     "3",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "MALINDA Coa! and ERNESTO PoNnsoT?:?*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-01-03.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "SALES!?,",
+    "leido": "1,2",
+    "indices": [
+     "1",
+     "2"
+    ]
+   },
+   {
+    "palabra": "PINHO**,",
+    "leido": "3,",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "MEDEIROS?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "BOURGUIGNON*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "LUCAS DE OLIVEIRA FERREIRA DE SALES!?, ANDRE Luis SANTOS DE PINHO**,",
+   "FRANCISCO MoISÉS CANDIDO DE MEDEIROS* and MARCELO BOURGUIGNON®"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-01-04.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "Ropricues!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CALSAVARA?3,",
+    "leido": "2,3",
+    "indices": [
+     "2",
+     "3"
+    ]
+   },
+   {
+    "palabra": "BERTOLLI*,",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   },
+   {
+    "palabra": "PERES”,",
+    "leido": "5",
+    "indices": [
+     "5"
+    ]
+   },
+   {
+    "palabra": "TOMAZELLA®",
+    "leido": "6",
+    "indices": [
+     "6"
+    ]
+   }
+  ],
+  "lineas": [
+   "AGATHA S. RopriGugEs!*, VINICIUS F. CALSAVARA2?, EDUARDO BERTOLLI*,",
+   "STELA V. PERES\", and VERA L.D. TOMAZELLAS"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-01-05.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "NASCIMENTO!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SILVA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "FRERY*",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "ABRAAO D.C. NASCIMENTO!*, KAssio F. SILVA!, AND ALEJANDRO C. FRERY?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-01-07.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "ARIZA-HERNANDEZ!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "GUTIÉRREZ-PEÑA?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "FRANCISCO J. ARIZA-HERNANDEZ! and EDUARDO GUTIÉRREZ-PEÑA?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-02-01.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "VILA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SAULO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ROLDAN?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "ROBERTO VILA!*, HELTON SAULO!, and JAMER ROLDAN?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-02-03.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "POLAT!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Esra POLAT!*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-02-02.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "FETITAH!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ATTOoUCH!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "KHARDANI’,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "RiGHI",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Omar FETITAH!, MOHAMMED K. ATTOUCH!*, SALAH KHARDANT’, and ALI Ricut'"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-02-04.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "MELO!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "LoosE?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "CARVALHO?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "MoiIzÉS DA S. MELO!*, Laís H. LoosE?, and JHONNATA B. DE CARVALHO?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-02-05.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "MoraGa!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "IBACACHE-PULGAR?3*,",
+    "leido": "2,3,*",
+    "indices": [
+     "2",
+     "3",
+     "*"
+    ]
+   },
+   {
+    "palabra": "NICOLIS4",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "MAGALY S. Moraca!, GERMAN IBACACHE-PULGAR?3*, and ORIETTA NICOLIS4"
+  ]
+ },
+ "pdfs_chilean\\ChJS-12-02-06.pdf": {
+  "pagina": 5,
+  "grupos": [
+   {
+    "palabra": "ANDRADE!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "MATSUSHITA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "RATHIE!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "OZELIM?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "OLIVEIRA®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "BERNARDO B. DE ANDRADE!*, RAUL Y. MATSUSHITA!, PUSHPA N. RATHIE!, LUAN OZELIM?,",
+   "and SANDRO B. DE OLIVEIRA®"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-01-01.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "DuENas!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "GIRALDO!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Marfa DuENAS! and RAMON GIRALDO!*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-01-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Martin",
+    "leido": "1,2,3,4,*",
+    "indices": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "*"
+    ]
+   },
+   {
+    "palabra": "ALARCON-BUSTAMANTE?",
+    "leido": "1,2,3",
+    "indices": [
+     "1",
+     "2",
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "ERNESTO SAN MARTIN 14 %&* and EDUARDO ALARCÓN-BUSTAMANTE**"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-01-03.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "SLAMA!>*",
+    "leido": "1,2,*",
+    "indices": [
+     "1",
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "ABDELDJALIL SLAMA!?*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-02-01.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GRIFFITH*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "DANIEL A. GRIFFITH*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-02-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "IRSHAD!**",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Maya?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "MUHAMMED RASHEED IRSHAD!* and RADHAKUMARI Maya?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-01-04.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "CHESNEAU!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "IRSHAD?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "SHIBU*,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "NITIN*,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "Maya*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "CHRISTOPHE CHESNEAU!*, MUHAMMED RASHEED IRSHAD?,",
+   "DAMODARAN SANTHAMANI SHIBU*, SOMAN LATHA NITIN*, and RADHAKUMARI MAYa*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-02-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "YILMAZ*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "AYFER EZGI YILMAZ*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-01-05.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "Ripetro-Rets!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CORDEIRO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SILVA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Lucas D. Ripetro-Rets!*, Gauss M. CORDEIRO!, and José J. DE SANTANA E SILVA!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-02-04.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "OLIVEIRA!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "FERREIRA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "IZABELA R. CARDOSO DE OLIVEIRA!* and DANIEL FURTADO FERREIRA!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-02-05.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "REDHOUANE!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "ABDELAZIZ”,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "OULDROUIS®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "FRIHI REDHOUANE!*, RASSOUL ABDELAZIZ\", and HAMID OULDROUIS®"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-01-06.pdf": {
+  "pagina": 4,
+  "grupos": [
+   {
+    "palabra": "GÓMEZ-DÉNIZ!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CALDERÍN-OJEDA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "SARABIA*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "EMILIO GÓMEZ-DÉNIZ!>*, ENRIQUE CALDER{N-OJEDA?, and Jost MARÍA SARABIA®"
+  ]
+ },
+ "pdfs_chilean\\ChJS-13-02-06.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "ANDO!",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "SHUJI ANDO!*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-01-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "AHMED!*",
+    "leido": "1*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "AZAM?2",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "AZAZ AHMED!* and MUHAMMAD AZAM\""
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-01-01.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CORDEIRO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "RopRIGUES?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "ORTEGA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "SANTANA®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "VILA**",
+    "leido": "4,",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "Gauss M. CORDEIRO!, GABRIELA M. RODRIGUES\", EDWIN M. M. ORTEGA?,",
+   "Luis H. DE SANTANA? and ROBERTO VILA**"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-01-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "ALARCON-BUSTAMANTE!234;*,",
+    "leido": "1234,",
+    "indices": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ]
+   },
+   {
+    "palabra": "VARAS!?",
+    "leido": "12",
+    "indices": [
+     "1",
+     "2"
+    ]
+   },
+   {
+    "palabra": "MARTÍN1235",
+    "leido": "1235",
+    "indices": [
+     "1",
+     "2",
+     "3",
+     "5"
+    ]
+   }
+  ],
+  "lineas": [
+   "EDUARDO ALARCÓN-BUSTAMANTE!?34*. INES M. VARAS!? and ERNESTO SAN MARTÍN1235"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-01-04.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Munir!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "RAZA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Haq?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "SHAHZAD Munir!*, SOHAIL RAZA?, and KHAWAJA ABDUL HAQ?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-01-05.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "FERREIRA!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CORDEIRO!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "ALEXSANDRO A. FERREIRA! * and Gauss M. CORDEIRO!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-02-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Biswas',",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BHATTACHARYA”*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "MUKHERJEE?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "ATANU BISWAS!, RAHUL BHATTACHARYA\"*, and TARANGA MUKHERJEE?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-02-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CORDEIRO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BIAZATTI!?*,",
+    "leido": "1,2,*",
+    "indices": [
+     "1",
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "LIMA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SANTANA?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Gauss M. CORDEIRO!, ELISANGELA C. BIAZATTI12*, MARIA DO CARMO S. DE Limal, and",
+   "D D D",
+   "Luís H. DE SANTANA?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-02-04.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "BHATTACHARJEE!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CHAKRABORTY”",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "SAHANA BHATTACHARJEE!* and SUBRATA CHAKRABORTY\""
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-01-01.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "TÉLLEZ-PIÑÉREZ!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "TRUJILLO”,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Sosa’,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "GUTIERREZ-RoJaAs®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "CRISTIAN TELLEZ-PINEREZ!*, LEONARDO TRUJILLO?, JUAN SOSA?, and",
+   "ANDRES GUTIERREZ-ROJAS®"
+  ]
+ },
+ "pdfs_chilean\\ChJS-14-02-05.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "SINDHU!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SHAFIQ?3*,",
+    "leido": "2,3,*",
+    "indices": [
+     "2",
+     "3",
+     "*"
+    ]
+   },
+   {
+    "palabra": "MAZUCHELI*,",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   },
+   {
+    "palabra": "OZEL®,",
+    "leido": "5",
+    "indices": [
+     "5"
+    ]
+   },
+   {
+    "palabra": "ALVES?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "TABASSUM Naz SINDHU!, ANUM SHAFIQ?3*, JOSMAR MAZUCHELI!, GAMZE OZEL®, and",
+   ", , , ,",
+   "BRUNA ALVES?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-01-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "NOUGHABI”*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "NOUGHABI”",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "HADI ALIZADEH NOUGHABI!* and MOHAMMAD SHAFAEI NOUGHABI?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-01-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CORDEIRO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BIAZATTI!**,",
+    "leido": "1,2,*",
+    "indices": [
+     "1",
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "ORTEGAS,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "Limal!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SANTANA*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "Gauss M. CORDEIRO!, ELISANGELA C. BIAZATTI!2*, EDWIN M.M. ORTEGAS,",
+   "MARIA DO CARMO S. DE LIMA!, and Luis H. DE SANTANA*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-01-04.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CouLIBALy!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CHAIBI!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Kuomsst'",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "BAKARY D. CouLiBaALy!*, GHIZLANE CHAIBI!, and MOHAMMED EL KHomss1!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-01-05.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "LEIVA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "CASTRO?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "VILA*,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "SAULO*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Victor LEIVA!*, CECILIA CASTRO?, ROBERTO VILA*, and HELTON SAULO*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-02-01.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "ORTIZ!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "BECERRA?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "SANTIAGO ORTIZ!* and OMAR BECERRA?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-02-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "HmMoop!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "TALIB?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "MunaF Y. Hmoop!* and HAYDER RAAID TALIB?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-02-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GONGALVES!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "FRANKLIN?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "FLÁVIO B. GONGALVES!* and PEDRO FRANKLIN?"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-02-04.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Bist!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "ABDELOUAHAB Bist!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-15-02-05.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Munir!",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "SHAHZAD Munir!*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-16-01-01.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "MARTÍN!?3*.",
+    "leido": "1,2,3*",
+    "indices": [
+     "1",
+     "2",
+     "3",
+     "*"
+    ]
+   },
+   {
+    "palabra": "GRAELL*,",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   },
+   {
+    "palabra": "MALDONADO?®,",
+    "leido": "9,8",
+    "indices": [
+     "9",
+     "8"
+    ]
+   },
+   {
+    "palabra": "BORQUEZ®,",
+    "leido": "6",
+    "indices": [
+     "6"
+    ]
+   },
+   {
+    "palabra": "CANALES’",
+    "leido": "7",
+    "indices": [
+     "7"
+    ]
+   }
+  ],
+  "lineas": [
+   "ERNESTO SAN Martin!:?:3*, MARÍA SOLEDAD GRAELL*, CAROLINA MALDONADO?®,",
+   "MACARENA BORQUEZ®, and IVAN CANALES’"
+  ]
+ },
+ "pdfs_chilean\\ChJS-16-01-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "VILA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SAULO!?*,",
+    "leido": "1,2,*",
+    "indices": [
+     "1",
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "NAKANO!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "ROBERTO VILA!, HELTON SAULO!?*. and EDUARDO NAKANO!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-16-01-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Kouakou!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "AMANI!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BAMBA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Soro!?,",
+    "leido": "1,3",
+    "indices": [
+     "1",
+     "3"
+    ]
+   },
+   {
+    "palabra": "Hui!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Konan J.G. KouAkou!*, Kouakou MATHIAS AMANI!, LANCINÉ BAMBA?,",
+   "BRAHIMA Soro!?, and OUAGNINA Hu!"
+  ]
+ },
+ "pdfs_chilean\\ChJS-16-01-04.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Lima!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "CRIBARI-NETO!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "FABIO P. Lima! and FRANCISCO CRIBARI-NETO!*"
+  ]
+ },
+ "pdfs_chilean\\ChJS-16-01-05.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Kirsos!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "OLIVEIRA?3*,",
+    "leido": "2,3,*",
+    "indices": [
+     "2",
+     "3",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Nyamsi?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CHRISTOS P. Kirsos!, AMILCAR OLIVEIRA?3*, and ULRICH ESCHCOL NYAmsI?"
+  ]
+ },
+ "pdfs_chilean\\ChJS_v11_n01.pdf": {
+  "pagina": 9,
+  "grupos": [
+   {
+    "palabra": "FERNANDEZ!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ANDRADE?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Luz MILENA ZEA FERNANDEZ! and THIAGO A. N. DE ANDRADE?*"
+  ]
+ },
+ "pdfs_chilean\\ChJS_v10_n01.pdf": {
+  "pagina": 9,
+  "grupos": [
+   {
+    "palabra": "CARVALHO!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SILVA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "BORRIES?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "PINHO!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "BORRIES*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "JHONNATA B. DE CARVALHO! *, MURILO C. SILVA?, GEORGE F. VON BORRIES?,",
+   "ANDRE L.S. DE PINHO! and RICARDO F. VON BORRIES*"
+  ]
+ },
+ "pdfs_chilean\\ChJS_v12_n01.pdf": {
+  "pagina": 7,
+  "grupos": [
+   {
+    "palabra": "BURKHALTER*",
+    "leido": "",
+    "indices": []
+   },
+   {
+    "palabra": "YUHLONG",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "RUTH BURKHALTER* and YUHLONG LIO"
+  ]
+ },
+ "pdfs_chilean\\Chun_Griffith(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Chun*,",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Yongwan Chun*, Daniel A. Griffith"
+  ]
+ },
+ "pdfs_chilean\\Cobb(2011).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "GEORGE W. COBB"
+  ]
+ },
+ "pdfs_chilean\\Cirillo_Ramos(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Cirillo",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Ramos",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Marcelo Angelo Cirillo!* and Patricia de Siqueira Ramos?"
+  ]
+ },
+ "pdfs_chilean\\ChJS_v11_n02.pdf": {
+  "pagina": 11,
+  "grupos": [
+   {
+    "palabra": "ALMANJAHIE!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ATTOUCH?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "FETITAH?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "IBRAHIM M. ALMANJAHIE!, MOHAMMED KADI ATTOUCH?, OMAR FETITAH?, and",
+   "HAYAT LOUHAB?"
+  ]
+ },
+ "pdfs_chilean\\Cordeiro_etal(2015).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "Gauss M. Cordeiro, William D. Aristizábal , Dora M. Suarez and Sébastien Lozano"
+  ]
+ },
+ "pdfs_chilean\\Correa_etal(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "M.'*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Barrera-Causil?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Marmolejo-Ramos®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Juan Carlos Correa M.!*, Carlos Barrera-Causil?, and Fernando Marmolejo-Ramos*"
+  ]
+ },
+ "pdfs_chilean\\Cordeiro_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Cordeiro!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Alizadeh?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Nascimento!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Rasekhi*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Gauss M. Cordeiro!, Morad Alizadeh?*, Abraao D. C. Nascimento!, Mahdi Rasekhi*"
+  ]
+ },
+ "pdfs_chilean\\daSilva_etal(2011a).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "SILVA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SCHWARTZ!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "PEDRINI!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "RICARDO DuTRA DA SILVA!, WILLIAM ROBSON SCHWARTZ! AND HELIO PEDRINI'*"
+  ]
+ },
+ "pdfs_chilean\\da_Silva_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Silva!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Amorim?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Colosimo!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Heller?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Nivea B. da Silvat*, Leila D. A. F. Amorim?, Enrico A. Colosimo! and Leo Heller?"
+  ]
+ },
+ "pdfs_chilean\\Dattatreya_Rao_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "A.V.!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "S.V.S.2,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": ".3",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Dattatreya Rao, A.V.!*, Girija, S.V.S.2, and Phani, Y .3"
+  ]
+ },
+ "pdfs_chilean\\daSilva_etal(2011b).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "SILVA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SCHWARTZ!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "MINGHIM?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "PEDRINI!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "RICARDO DuTRA DA SILVA!, WILLIAM ROBSON SCHWARTZ!,",
+   "ROSANE MINGHIM? AND HELIO PEDRINI\"*"
+  ]
+ },
+ "pdfs_chilean\\ChJS_v12_n02.pdf": {
+  "pagina": 9,
+  "grupos": [
+   {
+    "palabra": "VILA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SAULO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ROLDAN?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "ROBERTO VILA!*, HELTON SAULO!, and JAMER ROLDAN?"
+  ]
+ },
+ "pdfs_chilean\\deLeon_etal(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "LEON!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "MAHMOODIAN?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "JAMALIZADEH?*",
+    "leido": "3,",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "ALEXANDER R. DE LEON!, HAMED MAHMOODIAN?, AND AHAD JAMALIZADEH?*"
+  ]
+ },
+ "pdfs_chilean\\Diaz-Garcia_Gutierrez-Jaimez(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "DÍAZ-GARCÍA?*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "GUTIÉRREZ-JÁIMEZ?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "JosÉ A. DÍAZ-GARCÍA?* AND RAMON GUTIÉRREZ-JÁIMEZ?"
+  ]
+ },
+ "pdfs_chilean\\Dey_Kundu(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Dey!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "KUNDU?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "ARABIN KUMAR Dey! AND DEBASIS KUNDU?*"
+  ]
+ },
+ "pdfs_chilean\\ChJS_v13_n01.pdf": {
+  "pagina": 11,
+  "grupos": [
+   {
+    "palabra": "DuENas!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "GIRALDO!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Marfa DuENAS! and RAMON GIRALDO!*"
+  ]
+ },
+ "pdfs_chilean\\Dietrich_etal(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Richter*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Thomas Dietrich, Steve Kalke and Wolf-Dieter Richter*"
+  ]
+ },
+ "pdfs_chilean\\Elbatal_Aryal(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Elbatal!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Aryal?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ibrahim Elbatal! and Gokarna Aryal?*"
+  ]
+ },
+ "pdfs_chilean\\Elsherpieny_etal(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Elsherpieny*,",
+    "leido": "",
+    "indices": []
+   },
+   {
+    "palabra": "Ibrahim**",
+    "leido": "7",
+    "indices": [
+     "7"
+    ]
+   },
+   {
+    "palabra": "Bedar***",
+    "leido": "72",
+    "indices": [
+     "7",
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Elsayed Ahmed Elsherpieny*, Sahar Ahmed Ibrahim** and Radwan Eleswey Bedar***"
+  ]
+ },
+ "pdfs_chilean\\Fard_Holmquist(2013).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "Mir NABI PIROUZI FARD AND BJORN HOLMQUIST"
+  ]
+ },
+ "pdfs_chilean\\Ferreira(2013).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "MARTA FERREIRA"
+  ]
+ },
+ "pdfs_chilean\\Ferreira_etal(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Ferreira",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Olea",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Palma?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Guillermo Ferreira 1, Ricardo Olea ?, and Wilfredo Palma?*"
+  ]
+ },
+ "pdfs_chilean\\Fonseca_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Fonseca!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Nobre?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Farias?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Rodney Vasconcelos Fonseca!*, Juvéncio Santos Nobre? and Rafael Braz Azevedo Farias?"
+  ]
+ },
+ "pdfs_chilean\\Florencio_etal(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "FLORENCIO!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "CRIBARI-NETO?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "OSPINA?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "LUTEMBERG FLORENCIO!, FRANCISCO CRIBARI-NETO? AND RAYDONAL OSPINA?*"
+  ]
+ },
+ "pdfs_chilean\\Frery_etal(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "FRERY!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "NASCIMENTO?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "CINTRA?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "ALEJANDRO C. FRERY!*, ABRAAO D.C. NASCIMENTO? AND RENATO J. CINTRA?"
+  ]
+ },
+ "pdfs_chilean\\Galea_Vilca(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Galea!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Vilca?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Manuel Galea!* and Filidor Vilca?"
+  ]
+ },
+ "pdfs_chilean\\Gaioni_etal(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Gaioni!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Dey,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Ruggeri?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Elijah Gaioni!*, Dipak Dey?, Fabrizio Ruggeri?"
+  ]
+ },
+ "pdfs_chilean\\Garcia-Luengo_Casado(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GARCÍA-LUENGO*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "AMELIA V. GARCIA-LUENGO* AND INMACULADA ONA CASADO"
+  ]
+ },
+ "pdfs_chilean\\Genton_Zhang(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GENTON!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "ZHANG?*",
+    "leido": "12,",
+    "indices": [
+     "1",
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Marc G. GENTON! AND Hao ZHANG?*"
+  ]
+ },
+ "pdfs_chilean\\Giampaoli_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Giampaoli!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Tamura!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Caro?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Araujo*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Viviana Giampaoli!*, Karin A. Tamura!, Norma P. Caro? and Luiz J. Simdes de Araujo®"
+  ]
+ },
+ "pdfs_chilean\\Giles(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GILES*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "DAVID E. GILES*"
+  ]
+ },
+ "pdfs_chilean\\Gomez-Deniz_Calderin-Ojeda(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Gdmez—Déniz!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Calderín-Ojeda?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Emilio Gómez Déniz! and Enrique Calderín-Ojeda?*"
+  ]
+ },
+ "pdfs_chilean\\Griffith(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GRIFFITH*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "DANIEL GRIFFITH*"
+  ]
+ },
+ "pdfs_chilean\\Grover_etal(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Seth*,",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Gurprit Grover, Divya Seth*, V. Ravi and Prafulla Kumar Swain"
+  ]
+ },
+ "pdfs_chilean\\Hernandez-Sanchez_Scarpa(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "HERNANDEZ-SANCHEZ!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "SCARPA2*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "ESTEFANÍA HERNANDEZ-SANCHEZ! AND BRUNO SCARPA?*"
+  ]
+ },
+ "pdfs_chilean\\Guedes_etal(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GUEDES!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "JR?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "PIEDADE?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "URIBE-OPAZO*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "LUCIANA PAGLIOSA CARVALHO GUEDES!* , PAULO JUSTINIANO RIBEIRO JR?,",
+   "SÓNIA MARIA DE STEFANO PIEDADE? AND MIGUEL A. URIBE-OPAZO*"
+  ]
+ },
+ "pdfs_chilean\\Guglielmi_etal(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GUGLIELMI',",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "IEVA!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "PAGANont!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "RUGGERI?",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "RUGGERI?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "ALESSANDRA GUGLIELMI!, FRANCESCA IEVA!*, ANNA M. PAGANONI!",
+   "AND FABRIZIO RUGGERI"
+  ]
+ },
+ "pdfs_chilean\\Hmood_Stadtmuller(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Hmood!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Stadtmiiller",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Munaf Y. Hmood!* and Ulrich Stadtmiiller ?"
+  ]
+ },
+ "pdfs_chilean\\Holst_Jorgensen(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Holst!>*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Jorgensen?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "René Holst!* and Bent Jgrgensen?"
+  ]
+ },
+ "pdfs_chilean\\Javed_Mantalos(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Javed!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Mantalos?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Farrukh Javed!* and Panagiotis Mantalos?"
+  ]
+ },
+ "pdfs_chilean\\Kumar(2014).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "Sunil Kumar"
+  ]
+ },
+ "pdfs_chilean\\Kumar_Tripathy(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Tripathy*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Adarsha Kumar Jena, and Manas Ranjan Tripathy*"
+  ]
+ },
+ "pdfs_chilean\\Liang_etal(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Liang!’*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Sun?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "He?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Schootman*",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ye Liang!*, Dongchu Sun?, Chong He? and Mario Schootman*"
+  ]
+ },
+ "pdfs_chilean\\Leao_etal(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Leao!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Saulo?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Bourguignon!",
+    "leido": "1,3",
+    "indices": [
+     "1",
+     "3"
+    ]
+   },
+   {
+    "palabra": "Cintra*,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "Régo?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   },
+   {
+    "palabra": "Cordeiro?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Jeremias Leño!, Helton Saulo?*, Marcelo Bourguignon!?,",
+   "Renato Cintra’, Leandro Régo? and Gauss Cordeiro?"
+  ]
+ },
+ "pdfs_chilean\\Loschi_etal(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Loschi*,",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Rosangela H. Loschi*, Jeanne G. Pontel and Frederico R. B. Cruz"
+  ]
+ },
+ "pdfs_chilean\\Louzada_Cavali(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Louzada!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Cavali?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Francisco Louzada!* and Wagner Cavali?"
+  ]
+ },
+ "pdfs_chilean\\Leao_etal(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Leao!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Balakrishnan’,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Saulo?*",
+    "leido": "2,3",
+    "indices": [
+     "2",
+     "3"
+    ]
+   },
+   {
+    "palabra": "Tomazella*",
+    "leido": "4",
+    "indices": [
+     "4"
+    ]
+   }
+  ],
+  "lineas": [
+   "Jeremias Leao!*, N. Balakrishnan’, Helton Saulo?* and Vera Tomazella*"
+  ]
+ },
+ "pdfs_chilean\\Mahmoudvand_Zokaei(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "MAHMOUDVAND!:*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "ZOKAEL!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "RAHIM MAHMOUDVAND!* AND MOHAMMAD ZOKAEL!"
+  ]
+ },
+ "pdfs_chilean\\Mandowara_Nitu_Mehta(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "(Ranka)*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "V.L. Mandowara and Nitu Mehta (Ranka)*"
+  ]
+ },
+ "pdfs_chilean\\Louzada_etal(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Louzada!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Shimizu!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Suzuki!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Mazucheli?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Ferreira®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Francisco Louzada!, Taciana K. O. Shimizu!*, Adriano K. Suzuki!, Josmar Mazucheli?, and",
+   "Paulo H. Ferreira®"
+  ]
+ },
+ "pdfs_chilean\\Marciano_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Achic*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Francisco William P. Marciano, Betsabé G. Blas Achic* and Francisco José A. Cysneiros"
+  ]
+ },
+ "pdfs_chilean\\Mazucheli_etal(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Mazucheli!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Menezes!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Dey?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Josmar Mazucheli!* , André F. B. Menezes! and Sanku Dey?"
+  ]
+ },
+ "pdfs_chilean\\Mazucheli_etal(2016).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Mazucheli!:*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Coelho-Barros?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Louzada®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Josmar Mazuchelit*, Emilio A. Coelho-Barros? and Francisco Louzada®"
+  ]
+ },
+ "pdfs_chilean\\Mendoza_Gutierrez-Pena(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Mendoza!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Gutiérrez-Peña?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Manuel Mendoza!* and Eduardo Gutiérrez-Peña?"
+  ]
+ },
+ "pdfs_chilean\\Milani_etal(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Milani*,",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Eder Angelo Milani*, Carlos Alberto Ribeiro Diniz and Vera L. D. Tomazella"
+  ]
+ },
+ "pdfs_chilean\\Montoril_Ferreira(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Montoril*,",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Michel Helcias Montoril*, and Clécio da Silva Ferreira"
+  ]
+ },
+ "pdfs_chilean\\Monti_Fucci(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Monti!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Fucci?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Anna Clara Monti!*, and Rosa Fucci?"
+  ]
+ },
+ "pdfs_chilean\\Minozzo_Ferracuti(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Minozzo!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "FERRACUTI!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Marco Minozzo!* AND LAURA FERRACUTI!"
+  ]
+ },
+ "pdfs_chilean\\Nayeban_etal(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Borzadaran*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "S. Nayeban, A.H. Rezaei Roknabadi, and G.R. Mohtashami Borzadaran*"
+  ]
+ },
+ "pdfs_chilean\\Pacillo(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "PACILLO!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "SIMONA PACILLO!*"
+  ]
+ },
+ "pdfs_chilean\\Nikooravesh(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Nikooravesh*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Zohre Nikooravesh*"
+  ]
+ },
+ "pdfs_chilean\\Percontini_etal(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Percontini!*,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Blas”,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Cordeiro®",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ana Percontini!*, Betsabé Blas\", and Gauss M. Cordeiro?"
+  ]
+ },
+ "pdfs_chilean\\Pereira_etal(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Pereira!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Campos!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Roveda?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Santana!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Medeiros’,",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "André Pereira!*, Viviane Campos', José Roveda\", Fágner Santana! and Francisco de Medeiros’,"
+  ]
+ },
+ "pdfs_chilean\\Prakash(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Prakash*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Gyan Prakash*"
+  ]
+ },
+ "pdfs_chilean\\Pinho_etal(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "NOBRE*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Luis GUSTAVO BASTOS PINHO, JUVENCIO SANTOS NOBRE* AND SILVIA MARIA DE FREITAS"
+  ]
+ },
+ "pdfs_chilean\\Prates_etal(2012).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "PRatEs!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "DEY*,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "LacHos?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "MARCOS OLIVEIRA PRATES!*, DIPAK KUMAR DEy?, AND VICTOR Huco LacHos?"
+  ]
+ },
+ "pdfs_chilean\\Rau(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Rau*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "by Christian Rau*"
+  ]
+ },
+ "pdfs_chilean\\Quintana(2010).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "Fernando A. Quintana"
+  ]
+ },
+ "pdfs_chilean\\Quintana_etal(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "QUINTANA!”?,",
+    "leido": "1,2",
+    "indices": [
+     "1",
+     "2"
+    ]
+   },
+   {
+    "palabra": "OJEDA?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "TIRAO12*",
+    "leido": "1,2,*",
+    "indices": [
+     "1",
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "VALENTE!?",
+    "leido": "1,2",
+    "indices": [
+     "1",
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CLARA QUINTANA!?, SILVIA OJEDA\", GERMAN TIRAO!?* AND MAURO VALENTE!"
+  ]
+ },
+ "pdfs_chilean\\Rezac_etal(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Lio*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Joseph Rezac, Y.L. Lio* and Nan Jiang"
+  ]
+ },
+ "pdfs_chilean\\Ruggeri(2010).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "Fabrizio Ruggeri"
+  ]
+ },
+ "pdfs_chilean\\Richter_Venz(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Richter*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Wolf-Dieter Richter* and John Venz"
+  ]
+ },
+ "pdfs_chilean\\Sanchez_Infante(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "SANCHEZ!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "INFANTE?*",
+    "leido": "2,3",
+    "indices": [
+     "2",
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Luis SANCHEZ! AND SABA INFANTE?*"
+  ]
+ },
+ "pdfs_chilean\\SanMartin_Gonzalez(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Martín!?*",
+    "leido": "1,2,*",
+    "indices": [
+     "1",
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Gonzalez?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ernesto San Martín!?* and Jorge Gonzalez?"
+  ]
+ },
+ "pdfs_chilean\\Saraiva_Suzuki(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Saraiva!’*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Suzuki?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Erlandson F. Saraiva!* and Adriano K. Suzuki?"
+  ]
+ },
+ "pdfs_chilean\\Sen_etal(2011).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "SENT*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "SALAMA?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "QUADE!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "PRANAB K. SEN! *, IBRAHIM A. SALAMA? AND DANA QUADE!"
+  ]
+ },
+ "pdfs_chilean\\Schmidt_etal(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Schmidt?1>*,",
+    "leido": "2,1,*",
+    "indices": [
+     "2",
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Moraes?!,",
+    "leido": "3,1",
+    "indices": [
+     "3",
+     "1"
+    ]
+   },
+   {
+    "palabra": "Migon!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Alexandra M. Schmidt?1*, Caroline P. de Moraes?!, and Helio S. Migon!"
+  ]
+ },
+ "pdfs_chilean\\Sharma_Singh(2014).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Singh*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Prayas Sharma and Rajesh Singh*"
+  ]
+ },
+ "pdfs_chilean\\Sharma_etal(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Sharma!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Verma’,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "Singh?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "Prayas Sharma!, Hemant K. Verma’, Rajesh Singh?*"
+  ]
+ },
+ "pdfs_chilean\\Suarez-Espinosa_etal(2018).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Sudrez-Espinosa*,",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Javier Suárez-Espinosa\"*, José A. Villasenor-Alva, Annel Hurtado-Jaramillo and Paulino",
+   "Pérez-Rodriguez"
+  ]
+ },
+ "pdfs_chilean\\Solanki_Singh(2013).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "RAMKRISHNA S. SOLANKI AND HOUSILA P. SINGH"
+  ]
+ },
+ "pdfs_chilean\\Tsagris(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Tsagris*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Michail Tsagris*"
+  ]
+ },
+ "pdfs_chilean\\Taddeo_Morettin(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Taddeo!*,",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Morettin?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Marcelo M. Taddeo!*, and Pedro A. Morettin?"
+  ]
+ },
+ "pdfs_chilean\\Tomazella_etal(2013).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "TOMAZELLA!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "CANCHO?,",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   },
+   {
+    "palabra": "LOUZADA?*",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "VERA L.D. TOMAZELLA!, VICENTE G. CANCHO?, AND FRANCISCO LOUZADA?*"
+  ]
+ },
+ "pdfs_chilean\\Vallejos_Ojeda(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Vallejos!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Ojeda?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ronny O. Vallejos!* and Silvia M. Ojeda?"
+  ]
+ },
+ "pdfs_chilean\\Varuzza_Pereira(2010).pdf": {
+  "pagina": 1,
+  "grupos": [],
+  "lineas": [
+   "Leonardo Varuzza and Carlos Alberto de Braganca Pereira"
+  ]
+ },
+ "pdfs_chilean\\Velez_Marmolejo-Ramos(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Vélez!?,",
+    "leido": "1,2",
+    "indices": [
+     "1",
+     "2"
+    ]
+   },
+   {
+    "palabra": "Marmolejo-Ramos**",
+    "leido": "3,",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Jorge I. Vélez!?, and Fernando Marmolejo-Ramos**"
+  ]
+ },
+ "pdfs_chilean\\Vidal_Castro(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Vidal!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Castro?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ignacio Vidal!* and Luis M. Castro?"
+  ]
+ },
+ "pdfs_chilean\\Vishwakarma_Kumar(2015).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Vishwakarma*",
+    "leido": "",
+    "indices": []
+   }
+  ],
+  "lineas": [
+   "Gajendra K. Vishwakarma* and Manish Kumar"
+  ]
+ },
+ "pdfs_chilean\\Vigas_etal(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Vigas!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Silva?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Louzada?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Valdemiro Piedade Vigas!, Giovana Oliveira Silva?*, and Francisco Louzada?"
+  ]
+ },
+ "pdfs_chilean\\Yang_etal(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Yang!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "Miiller?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Rosner?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Ying Yang!, Peter Miiller?*, and Gary L. Rosner?"
+  ]
+ },
+ "_nuevos_pdf\\ChJS-16-02-01.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "GENEST!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "NESLEHOVA!®,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "DoLMATOV!®,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "KUBELKA?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CHRISTIAN GENEST!* 6, JOHANNA G. NESLEHOVA!®,",
+   "MISHA DoLMATOV!®, and Vir KUBELKA?®"
+  ]
+ },
+ "_nuevos_pdf\\ChJS-16-02-03.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "SOZEN!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "CAGLAR SOZEN!*@®"
+  ]
+ },
+ "_nuevos_pdf\\ChJS-16-02-02.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "AZEVEDO!",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "MretrrA-MACHADO!®,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "MOREIRA!",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   }
+  ],
+  "lineas": [
+   "Marta AZEVEDO! *®, Luis MEIRA-MACHADO!O, and CARLA MOREIRA!O"
+  ]
+ },
+ "_nuevos_pdf\\ChJS-16-02-04.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CRUZ-TORRES!*®",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "RUGGERI?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "CRISTIAN CRUZ-TORRES!*® and FABRIZIO RUGGERÉO"
+  ]
+ },
+ "_nuevos_pdf\\ChJS-16-02-05.pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "CHEN!®",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "GEeNTon!*",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   }
+  ],
+  "lineas": [
+   "SIHAN CHEN!® and Marc G. GENTON!*®"
+  ]
+ },
+ "pdfs_chilean\\Fuentes-Garcia(2013).pdf": {
+  "pagina": null,
+  "grupos": [],
+  "lineas": [
+   "Ruth Fuentes-García!*"
+  ]
+ },
+ "pdfs_chilean\\delPino_Icaza(2010).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Pino!",
+    "leido": "1,*",
+    "indices": [
+     "1",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Icaza?",
+    "leido": "2",
+    "indices": [
+     "2"
+    ]
+   }
+  ],
+  "lineas": [
+   "Guido del Pino!*, Gloria Icaza?"
+  ]
+ },
+ "pdfs_chilean\\Alizadeh_etal(2017).pdf": {
+  "pagina": 1,
+  "grupos": [
+   {
+    "palabra": "Alizadeh!,",
+    "leido": "1",
+    "indices": [
+     "1"
+    ]
+   },
+   {
+    "palabra": "MirMostafaee?*,",
+    "leido": "2,*",
+    "indices": [
+     "2",
+     "*"
+    ]
+   },
+   {
+    "palabra": "Ghosh?",
+    "leido": "3",
+    "indices": [
+     "3"
+    ]
+   }
+  ],
+  "lineas": [
+   "Morad Alizadeh!, S.M.T.K MirMostafaee?*, and Indranil Ghosh?"
+  ]
+ }
+}

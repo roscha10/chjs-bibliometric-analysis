@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Brazil"/>
+<node id="United States"/>
+<node id="Chile"/>
+<node id="Canada"/>
+<node id="Australia"/>
+<node id="Colombia"/>
+<node id="Spain"/>
+<node id="Belgium"/>
+<node id="India"/>
+<node id="Pakistan"/>
+<node id="China"/>
+<node id="Egypt"/>
+<node id="Iran"/>
+<node id="Algeria"/>
+<node id="Denmark"/>
+<node id="Saudi Arabia"/>
+<node id="Tunisia"/>
+<node id="Argentina"/>
+<node id="Czech Republic"/>
+<node id="Netherlands"/>
+<node id="New Zealand"/>
+<node id="Peru"/>
+<node id="Portugal"/>
+<node id="Turkey"/>
+<node id="UK"/>
+<node id="Germany"/>
+<node id="Ecuador"/>
+<node id="Venezuela"/>
+<node id="France"/>
+<node id="Iraq"/>
+<node id="Greece"/>
+<node id="Honduras"/>
+<node id="Italy"/>
+<node id="Jordan"/>
+<node id="Qatar"/>
+<node id="United Arab Emirates"/>
+<node id="Libya"/>
+<node id="Mexico"/>
+<node id="South Korea"/>
+<edge source="Brazil" target="United States">
+  <data key="d0">5</data>
+</edge>
+<edge source="Brazil" target="Chile">
+  <data key="d0">4</data>
+</edge>
+<edge source="Brazil" target="Canada">
+  <data key="d0">3</data>
+</edge>
+<edge source="Brazil" target="India">
+  <data key="d0">2</data>
+</edge>
+<edge source="Brazil" target="Pakistan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Brazil" target="Argentina">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="China">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="Czech Republic">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="Iran">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="Netherlands">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="New Zealand">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="Peru">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="Portugal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="Turkey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Brazil" target="UK">
+  <data key="d0">1</data>
+</edge>
+<edge source="United States" target="Egypt">
+  <data key="d0">2</data>
+</edge>
+<edge source="United States" target="Iran">
+  <data key="d0">2</data>
+</edge>
+<edge source="United States" target="Chile">
+  <data key="d0">1</data>
+</edge>
+<edge source="United States" target="Italy">
+  <data key="d0">1</data>
+</edge>
+<edge source="United States" target="New Zealand">
+  <data key="d0">1</data>
+</edge>
+<edge source="United States" target="Peru">
+  <data key="d0">1</data>
+</edge>
+<edge source="United States" target="Turkey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chile" target="Belgium">
+  <data key="d0">2</data>
+</edge>
+<edge source="Chile" target="Argentina">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chile" target="Colombia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chile" target="Germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chile" target="Portugal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Canada" target="Czech Republic">
+  <data key="d0">1</data>
+</edge>
+<edge source="Canada" target="Iran">
+  <data key="d0">1</data>
+</edge>
+<edge source="Canada" target="Pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Australia" target="Colombia">
+  <data key="d0">2</data>
+</edge>
+<edge source="Australia" target="Spain">
+  <data key="d0">2</data>
+</edge>
+<edge source="Australia" target="China">
+  <data key="d0">1</data>
+</edge>
+<edge source="Australia" target="Pakistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spain" target="Mexico">
+  <data key="d0">1</data>
+</edge>
+<edge source="India" target="France">
+  <data key="d0">1</data>
+</edge>
+<edge source="India" target="UK">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pakistan" target="China">
+  <data key="d0">2</data>
+</edge>
+<edge source="Pakistan" target="Czech Republic">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pakistan" target="South Korea">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pakistan" target="Turkey">
+  <data key="d0">1</data>
+</edge>
+<edge source="China" target="Czech Republic">
+  <data key="d0">1</data>
+</edge>
+<edge source="China" target="Turkey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Egypt" target="Iran">
+  <data key="d0">1</data>
+</edge>
+<edge source="Egypt" target="Turkey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Iran" target="France">
+  <data key="d0">1</data>
+</edge>
+<edge source="Iran" target="Turkey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Algeria" target="Denmark">
+  <data key="d0">1</data>
+</edge>
+<edge source="Algeria" target="Saudi Arabia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Algeria" target="Tunisia">
+  <data key="d0">1</data>
+</edge>
+<edge source="Czech Republic" target="Turkey">
+  <data key="d0">1</data>
+</edge>
+<edge source="Portugal" target="Greece">
+  <data key="d0">1</data>
+</edge>
+<edge source="UK" target="Libya">
+  <data key="d0">1</data>
+</edge>
+<edge source="Germany" target="Iraq">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ecuador" target="Venezuela">
+  <data key="d0">1</data>
+</edge>
+<edge source="Honduras" target="Italy">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jordan" target="Qatar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jordan" target="United Arab Emirates">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qatar" target="United Arab Emirates">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

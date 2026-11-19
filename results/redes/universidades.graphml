@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Universidade Estadual de Maringá (Brazil)"/>
+<node id="Universidade de São Paulo (Brazil)"/>
+<node id="Universidade Federal da Bahia (Brazil)"/>
+<node id="Universidade Federal de Pernambuco (Brazil)"/>
+<node id="Cochin University of Science and Technology (India)"/>
+<node id="University of Kerala (India)"/>
+<node id="Interdisciplinary Laboratory of Social Statistics (Chile)"/>
+<node id="Millennium Nucleus on Intergenerational Mobility (MOVI) (Chile)"/>
+<node id="Pontificia Universidad Católica de Chile (Chile)"/>
+<node id="Université Catholique de Louvain (Belgium)"/>
+<node id="St. Anthony’s College (India)"/>
+<node id="Universidad de Las Palmas de Gran Canaria (Spain)"/>
+<node id="University of Melbourne (Australia)"/>
+<node id="Universidade Federal de Rondônia (Brazil)"/>
+<node id="Universidade Estadual do Oeste do Paraná (Brazil)"/>
+<node id="Universidade Federal de Mato Grosso do Sul (Brazil)"/>
+<node id="Universidade Federal de São Carlos (Brazil)"/>
+<node id="A.C.Camargo Cancer Center (Brazil)"/>
+<node id="Cedars-Sinai Medical Center (United States)"/>
+<node id="Fundação Oncocentro de São Paulo (Brazil)"/>
+<node id="Universidade Federal do Espírito Santo (Brazil)"/>
+<node id="Acharya Nagarjuna University (India)"/>
+<node id="Hindu College (India)"/>
+<node id="Shri Vishnu Engineering College for Women (India)"/>
+<node id="Acroama Gnan Vikas Pvt. Ltd. (India)"/>
+<node id="University of Madras (India)"/>
+<node id="Al-Hussein Bin Talal University (Jordan)"/>
+<node id="Qatar University (Qatar)"/>
+<node id="University of Sharjah (United Arab Emirates)"/>
+<node id="Banaras Hindu University (India)"/>
+<node id="University of Petroleum and Energy Studies (India)"/>
+<node id="Banco do Nordeste do Brasil S.A (Brazil)"/>
+<node id="Benha University (Egypt)"/>
+<node id="Hacettepe University (Turkey)"/>
+<node id="Marquette University (United States)"/>
+<node id="Persian Gulf University (Iran)"/>
+<node id="Blida 1 University (Algeria)"/>
+<node id="National Higher School of Hydraulic (Algeria)"/>
+<node id="Bristol-Myers Squibb Company (United States)"/>
+<node id="Johns Hopkins University (United States)"/>
+<node id="University of Texas MD Anderson Cancer Center (United States)"/>
+<node id="CNR IMATI (Italy)"/>
+<node id="IBM (United States)"/>
+<node id="National Autonomous University of Honduras (Honduras)"/>
+<node id="Politecnico di Milano (Italy)"/>
+<node id="University of Connecticut (United States)"/>
+<node id="CONICET (Argentina)"/>
+<node id="Universidad Nacional de Córdoba (Argentina)"/>
+<node id="Cairo University (Egypt)"/>
+<node id="Purdue University (United States)"/>
+<node id="Caja de Compensación Los Andes (Chile)"/>
+<node id="Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (Brazil)"/>
+<node id="McGill University (Canada)"/>
+<node id="Universidade Federal do Rio de Janeiro (Brazil)"/>
+<node id="University College, Thiruvananthapuram (India)"/>
+<node id="Université de Caen Basse-Normandie (France)"/>
+<node id="Crop Reporting Service, Agriculture Department, Punjab (Pakistan)"/>
+<node id="Deakin University (Australia)"/>
+<node id="Xiamen University (China)"/>
+<node id="Cámara de Control de Medición de Audiencia (Argentina)"/>
+<node id="Instituto Tecnológico de Buenos Aires (Argentina)"/>
+<node id="Dibrugarh University (India)"/>
+<node id="Gauhati University (India)"/>
+<node id="ECLAC (Chile)"/>
+<node id="Fundación Universitaria Los Libertadores (Colombia)"/>
+<node id="Universidad Nacional de Colombia (Colombia)"/>
+<node id="Forman Christian College University (Pakistan)"/>
+<node id="National College of Business Administration &amp; Economics (Pakistan)"/>
+<node id="Pohang University of Science and Technology (POSTECH) (South Korea)"/>
+<node id="Gestore dei Servizi Energetici (Italy)"/>
+<node id="University of Sannio (Italy)"/>
+<node id="Government Sadiq Egerton College (Pakistan)"/>
+<node id="University of Western Ontario (Canada)"/>
+<node id="Govt. Islamia College Railway Road (Pakistan)"/>
+<node id="University of Veterinary and Animal Sciences Lahore (Pakistan)"/>
+<node id="Nanjing University of Information Science and Technology (China)"/>
+<node id="Quaid-i-Azam University (Pakistan)"/>
+<node id="VSB - Technical University of Ostrava (Czech Republic)"/>
+<node id="Harvard University (United States)"/>
+<node id="Lincoln University (New Zealand)"/>
+<node id="IIT Gauhati (India)"/>
+<node id="IIT Kanpur (India)"/>
+<node id="Indian Statistical Institute (India)"/>
+<node id="University of Calcutta (India)"/>
+<node id="IniSEB Centro Universitário (Brazil)"/>
+<node id="Institut National Polytechnique Félix Houphouët-Boigny (Côte d’Ivoire)"/>
+<node id="Université Nangui Abrogoua (Côte d’Ivoire)"/>
+<node id="Université Peleforo Gon Coulibaly (Côte d’Ivoire)"/>
+<node id="Instituto Federal de Goiás (Brazil)"/>
+<node id="Universidade de Brasília (Brazil)"/>
+<node id="Instituto Tecnológico Autónomo de México (Mexico)"/>
+<node id="Universidad Nacional Autónoma de México (Mexico)"/>
+<node id="King Khalid University (Saudi Arabia)"/>
+<node id="Université Djillali Liabès de Sidi Bel Abbès (Algeria)"/>
+<node id="Lund University (Sweden)"/>
+<node id="Orebro University (Sweden)"/>
+<node id="Maastricht University (Netherlands)"/>
+<node id="Malayer University (Iran)"/>
+<node id="Qminers (Czech Republic)"/>
+<node id="McMaster University (Canada)"/>
+<node id="Universidade Federal do Amazonas (Brazil)"/>
+<node id="Metropolitan Technological Institute (Colombia)"/>
+<node id="University of Adelaide (Australia)"/>
+<node id="North Carolina Central University (United States)"/>
+<node id="University of North Carolina at Chapel Hill (United States)"/>
+<node id="Oklahoma State University (United States)"/>
+<node id="University of Missouri (United States)"/>
+<node id="Washington University School of Medicine (United States)"/>
+<node id="Payame Noor University (Iran)"/>
+<node id="University of Mazandaran (Iran)"/>
+<node id="University of North Carolina Wilmington (United States)"/>
+<node id="Texas A&amp;M University (United States)"/>
+<node id="Universidad de Concepción (Chile)"/>
+<node id="Universidad de Talca (Chile)"/>
+<node id="Universidade Estadual de Campinas (Brazil)"/>
+<node id="University of Rostock (Germany)"/>
+<node id="Pontificia Universidad Católica de Valparaíso (Chile)"/>
+<node id="Universidade do Minho (Portugal)"/>
+<node id="Pontificia Universidad Católica del Perú (Peru)"/>
+<node id="Universidad del Pacífico (Peru)"/>
+<node id="Rede Sarah de Hospitais de Reabilitação (Brazil)"/>
+<node id="Shahid Bahonar University (Iran)"/>
+<node id="University of Calgary (Canada)"/>
+<node id="Yazd University (Iran)"/>
+<node id="University of Manchester (UK)"/>
+<node id="The Australian National University (Australia)"/>
+<node id="Universidad del Norte (Colombia)"/>
+<node id="Topos: Data Science Consulting (Ecuador)"/>
+<node id="Universidad de Los Andes (Venezuela) (Venezuela)"/>
+<node id="Ulm University (Germany)"/>
+<node id="University of Baghdad (Iraq)"/>
+<node id="Universidad Andrés Bello (Chile)"/>
+<node id="Universidad Austral de Chile (Chile)"/>
+<node id="Universidad de Valparaíso (Chile)"/>
+<node id="Universidad Autónoma Agraria Antonio Narro (Mexico)"/>
+<node id="Universidad de Granada (Spain)"/>
+<node id="Universidad Autónoma de Guerrero (Mexico)"/>
+<node id="Universidad CUNEF (Spain)"/>
+<node id="Universidad EAFIT (Colombia)"/>
+<node id="Universidad de San Buenaventura (Colombia)"/>
+<node id="Universidad Técnica Federico Santa María (Chile)"/>
+<node id="Universidad ORT (Uruguay)"/>
+<node id="Universidad de la República (Uruguay)"/>
+<node id="Universidad de Huelva (Spain)"/>
+<node id="Universidade Aberta (Portugal)"/>
+<node id="University of West Attica (Greece)"/>
+<node id="Universidade Estadual Paulista Júlio de Mesquita Filho (Brazil)"/>
+<node id="Universidade Federal do Rio Grande do Norte (Brazil)"/>
+<node id="Universidade Estadual da Paraíba (Brazil)"/>
+<node id="Universidade Federal de Campina Grande (Brazil)"/>
+<node id="Universidade Federal de Minas Gerais (Brazil)"/>
+<node id="Universidade Federal do Ceará (Brazil)"/>
+<node id="Universidade Estadual de Feira de Santana (Brazil)"/>
+<node id="Universidade Tecnológica Federal do Paraná (Brazil)"/>
+<node id="University of California, Santa Barbara (United States)"/>
+<node id="Universidade Federal do Paraná (Brazil)"/>
+<node id="Universidade Federal de Alagoas (Brazil)"/>
+<node id="Universidade Federal de Alfenas (Brazil)"/>
+<node id="Universidade Federal de Lavras (Brazil)"/>
+<node id="Universidade Federal de Uberlândia (Brazil)"/>
+<node id="Universidade Federal do Piauí (Brazil)"/>
+<node id="Universidade Federal do Rio Grande do Sul (Brazil)"/>
+<node id="Victoria University of Wellington (New Zealand)"/>
+<node id="Universidade Federal de Santa Maria (Brazil)"/>
+<node id="University of Texas at El Paso (United States)"/>
+<node id="Universidade de Coimbra (Portugal)"/>
+<node id="University of Adrar (Algeria)"/>
+<node id="University of Southern Denmark (Denmark)"/>
+<node id="University of Sumer (Iraq)"/>
+<node id="University of Benghazi (Libya)"/>
+<node id="University of Leeds (UK)"/>
+<node id="University of Birjand (Iran)"/>
+<node id="University of Gonabad (Iran)"/>
+<node id="University of Padua (Italy)"/>
+<node id="Università di Perugia (Italy)"/>
+<node id="Université de Tunis El Manar (Tunisia)"/>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="Universidade de São Paulo (Brazil)">
+  <data key="d0">4</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="Universidade Federal de Pernambuco (Brazil)">
+  <data key="d0">3</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="St. Anthony’s College (India)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="Universidade Federal de Rondônia (Brazil)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="Universidade Estadual de Campinas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="Universidade Federal da Bahia (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="Universidade Tecnológica Federal do Paraná (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="Universidade de Brasília (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="University of California, Santa Barbara (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Maringá (Brazil)" target="University of Manchester (UK)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Federal da Bahia (Brazil)">
+  <data key="d0">4</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Federal de Pernambuco (Brazil)">
+  <data key="d0">3</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Pontificia Universidad Católica de Chile (Chile)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Estadual do Oeste do Paraná (Brazil)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Federal de Mato Grosso do Sul (Brazil)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Federal de São Carlos (Brazil)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="IniSEB Centro Universitário (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Maastricht University (Netherlands)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Pontificia Universidad Católica del Perú (Peru)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidad Nacional de Córdoba (Argentina)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidad del Pacífico (Peru)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Estadual de Campinas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Federal de Rondônia (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Federal do Paraná (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Federal do Rio Grande do Norte (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade Tecnológica Federal do Paraná (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="Universidade de Brasília (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de São Paulo (Brazil)" target="University of Connecticut (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal da Bahia (Brazil)" target="Universidade Federal de Mato Grosso do Sul (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal da Bahia (Brazil)" target="Universidade Federal de Minas Gerais (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Federal de Rondônia (Brazil)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Banco do Nordeste do Brasil S.A (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Government Sadiq Egerton College (Pakistan)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Hacettepe University (Turkey)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Malayer University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Nanjing University of Information Science and Technology (China)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Persian Gulf University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Pontificia Universidad Católica de Chile (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Quaid-i-Azam University (Pakistan)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Estadual de Feira de Santana (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Estadual do Oeste do Paraná (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Federal de Alagoas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Federal do Ceará (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Federal do Piauí (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Federal do Rio Grande do Norte (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade Federal do Rio Grande do Sul (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Universidade de Brasília (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="University of Western Ontario (Canada)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="VSB - Technical University of Ostrava (Czech Republic)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Pernambuco (Brazil)" target="Victoria University of Wellington (New Zealand)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cochin University of Science and Technology (India)" target="University of Kerala (India)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Cochin University of Science and Technology (India)" target="University College, Thiruvananthapuram (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cochin University of Science and Technology (India)" target="Université de Caen Basse-Normandie (France)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Kerala (India)" target="University College, Thiruvananthapuram (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Kerala (India)" target="Université de Caen Basse-Normandie (France)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Interdisciplinary Laboratory of Social Statistics (Chile)" target="Millennium Nucleus on Intergenerational Mobility (MOVI) (Chile)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Interdisciplinary Laboratory of Social Statistics (Chile)" target="Pontificia Universidad Católica de Chile (Chile)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Interdisciplinary Laboratory of Social Statistics (Chile)" target="Université Catholique de Louvain (Belgium)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Millennium Nucleus on Intergenerational Mobility (MOVI) (Chile)" target="Pontificia Universidad Católica de Chile (Chile)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Millennium Nucleus on Intergenerational Mobility (MOVI) (Chile)" target="Université Catholique de Louvain (Belgium)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="Université Catholique de Louvain (Belgium)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="Caja de Compensación Los Andes (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="Texas A&amp;M University (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="Universidad de Concepción (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="Universidad de Talca (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="Universidade Estadual de Campinas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="Universidade Estadual do Oeste do Paraná (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Chile (Chile)" target="University of Rostock (Germany)">
+  <data key="d0">1</data>
+</edge>
+<edge source="St. Anthony’s College (India)" target="Universidade Estadual de Campinas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="St. Anthony’s College (India)" target="University of Manchester (UK)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad de Las Palmas de Gran Canaria (Spain)" target="University of Melbourne (Australia)">
+  <data key="d0">2</data>
+</edge>
+<edge source="Universidad de Las Palmas de Gran Canaria (Spain)" target="Universidad CUNEF (Spain)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Melbourne (Australia)" target="Universidad CUNEF (Spain)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual do Oeste do Paraná (Brazil)" target="Universidade Federal do Paraná (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de São Carlos (Brazil)" target="A.C.Camargo Cancer Center (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de São Carlos (Brazil)" target="Cedars-Sinai Medical Center (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de São Carlos (Brazil)" target="Fundação Oncocentro de São Paulo (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de São Carlos (Brazil)" target="McMaster University (Canada)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de São Carlos (Brazil)" target="Universidade Federal do Amazonas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de São Carlos (Brazil)" target="Universidade Federal do Espírito Santo (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de São Carlos (Brazil)" target="Universidade de Brasília (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="A.C.Camargo Cancer Center (Brazil)" target="Cedars-Sinai Medical Center (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="A.C.Camargo Cancer Center (Brazil)" target="Fundação Oncocentro de São Paulo (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="A.C.Camargo Cancer Center (Brazil)" target="Universidade Federal do Espírito Santo (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cedars-Sinai Medical Center (United States)" target="Fundação Oncocentro de São Paulo (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cedars-Sinai Medical Center (United States)" target="Universidade Federal do Espírito Santo (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Fundação Oncocentro de São Paulo (Brazil)" target="Universidade Federal do Espírito Santo (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Acharya Nagarjuna University (India)" target="Hindu College (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Acharya Nagarjuna University (India)" target="Shri Vishnu Engineering College for Women (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hindu College (India)" target="Shri Vishnu Engineering College for Women (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Acroama Gnan Vikas Pvt. Ltd. (India)" target="University of Madras (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Al-Hussein Bin Talal University (Jordan)" target="Qatar University (Qatar)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Al-Hussein Bin Talal University (Jordan)" target="University of Sharjah (United Arab Emirates)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qatar University (Qatar)" target="University of Sharjah (United Arab Emirates)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Banaras Hindu University (India)" target="University of Petroleum and Energy Studies (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Benha University (Egypt)" target="Hacettepe University (Turkey)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Benha University (Egypt)" target="Marquette University (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Benha University (Egypt)" target="Persian Gulf University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hacettepe University (Turkey)" target="Marquette University (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hacettepe University (Turkey)" target="Nanjing University of Information Science and Technology (China)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hacettepe University (Turkey)" target="Persian Gulf University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hacettepe University (Turkey)" target="Quaid-i-Azam University (Pakistan)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hacettepe University (Turkey)" target="VSB - Technical University of Ostrava (Czech Republic)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Marquette University (United States)" target="Persian Gulf University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Persian Gulf University (Iran)" target="Malayer University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Persian Gulf University (Iran)" target="University of Mazandaran (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Persian Gulf University (Iran)" target="University of North Carolina Wilmington (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Blida 1 University (Algeria)" target="National Higher School of Hydraulic (Algeria)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bristol-Myers Squibb Company (United States)" target="Johns Hopkins University (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Bristol-Myers Squibb Company (United States)" target="University of Texas MD Anderson Cancer Center (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Johns Hopkins University (United States)" target="University of Texas MD Anderson Cancer Center (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNR IMATI (Italy)" target="IBM (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNR IMATI (Italy)" target="National Autonomous University of Honduras (Honduras)">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNR IMATI (Italy)" target="Politecnico di Milano (Italy)">
+  <data key="d0">1</data>
+</edge>
+<edge source="CNR IMATI (Italy)" target="University of Connecticut (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="IBM (United States)" target="University of Connecticut (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Connecticut (United States)" target="Pontificia Universidad Católica del Perú (Peru)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Connecticut (United States)" target="Universidad del Pacífico (Peru)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Connecticut (United States)" target="Universidade Estadual de Campinas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Connecticut (United States)" target="Universidade Federal de Minas Gerais (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="CONICET (Argentina)" target="Universidad Nacional de Córdoba (Argentina)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Nacional de Córdoba (Argentina)" target="Universidad Técnica Federico Santa María (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cairo University (Egypt)" target="Purdue University (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purdue University (United States)" target="Texas A&amp;M University (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (Brazil)" target="McGill University (Canada)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (Brazil)" target="Universidade Federal do Rio de Janeiro (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="McGill University (Canada)" target="Qminers (Czech Republic)">
+  <data key="d0">1</data>
+</edge>
+<edge source="McGill University (Canada)" target="Universidade Federal do Rio de Janeiro (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University College, Thiruvananthapuram (India)" target="Université de Caen Basse-Normandie (France)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université de Caen Basse-Normandie (France)" target="Payame Noor University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Crop Reporting Service, Agriculture Department, Punjab (Pakistan)" target="Deakin University (Australia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Crop Reporting Service, Agriculture Department, Punjab (Pakistan)" target="Xiamen University (China)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Deakin University (Australia)" target="Xiamen University (China)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cámara de Control de Medición de Audiencia (Argentina)" target="Instituto Tecnológico de Buenos Aires (Argentina)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dibrugarh University (India)" target="Gauhati University (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="ECLAC (Chile)" target="Fundación Universitaria Los Libertadores (Colombia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="ECLAC (Chile)" target="Universidad Nacional de Colombia (Colombia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Fundación Universitaria Los Libertadores (Colombia)" target="Universidad Nacional de Colombia (Colombia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Nacional de Colombia (Colombia)" target="Metropolitan Technological Institute (Colombia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Nacional de Colombia (Colombia)" target="University of Adelaide (Australia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Forman Christian College University (Pakistan)" target="National College of Business Administration &amp; Economics (Pakistan)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Forman Christian College University (Pakistan)" target="Pohang University of Science and Technology (POSTECH) (South Korea)">
+  <data key="d0">1</data>
+</edge>
+<edge source="National College of Business Administration &amp; Economics (Pakistan)" target="Pohang University of Science and Technology (POSTECH) (South Korea)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gestore dei Servizi Energetici (Italy)" target="University of Sannio (Italy)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Government Sadiq Egerton College (Pakistan)" target="University of Western Ontario (Canada)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Govt. Islamia College Railway Road (Pakistan)" target="University of Veterinary and Animal Sciences Lahore (Pakistan)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University of Information Science and Technology (China)" target="Quaid-i-Azam University (Pakistan)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nanjing University of Information Science and Technology (China)" target="VSB - Technical University of Ostrava (Czech Republic)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Quaid-i-Azam University (Pakistan)" target="VSB - Technical University of Ostrava (Czech Republic)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Harvard University (United States)" target="Lincoln University (New Zealand)">
+  <data key="d0">1</data>
+</edge>
+<edge source="IIT Gauhati (India)" target="IIT Kanpur (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Indian Statistical Institute (India)" target="University of Calcutta (India)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Institut National Polytechnique Félix Houphouët-Boigny (Côte d’Ivoire)" target="Université Nangui Abrogoua (Côte d’Ivoire)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Institut National Polytechnique Félix Houphouët-Boigny (Côte d’Ivoire)" target="Université Peleforo Gon Coulibaly (Côte d’Ivoire)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université Nangui Abrogoua (Côte d’Ivoire)" target="Université Peleforo Gon Coulibaly (Côte d’Ivoire)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Instituto Federal de Goiás (Brazil)" target="Universidade de Brasília (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de Brasília (Brazil)" target="McMaster University (Canada)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de Brasília (Brazil)" target="Pontificia Universidad Católica de Valparaíso (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de Brasília (Brazil)" target="Rede Sarah de Hospitais de Reabilitação (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de Brasília (Brazil)" target="Universidade Federal do Amazonas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de Brasília (Brazil)" target="Universidade Federal do Rio Grande do Norte (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de Brasília (Brazil)" target="Universidade do Minho (Portugal)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade de Brasília (Brazil)" target="University of Texas at El Paso (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Instituto Tecnológico Autónomo de México (Mexico)" target="Universidad Nacional Autónoma de México (Mexico)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Nacional Autónoma de México (Mexico)" target="Universidad Autónoma de Guerrero (Mexico)">
+  <data key="d0">1</data>
+</edge>
+<edge source="King Khalid University (Saudi Arabia)" target="Université Djillali Liabès de Sidi Bel Abbès (Algeria)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Université Djillali Liabès de Sidi Bel Abbès (Algeria)" target="Université de Tunis El Manar (Tunisia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lund University (Sweden)" target="Orebro University (Sweden)">
+  <data key="d0">1</data>
+</edge>
+<edge source="McMaster University (Canada)" target="Universidade Federal do Amazonas (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal do Amazonas (Brazil)" target="Universidade Federal de Santa Maria (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal do Amazonas (Brazil)" target="Universidade Federal do Rio Grande do Norte (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Metropolitan Technological Institute (Colombia)" target="University of Adelaide (Australia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Adelaide (Australia)" target="The Australian National University (Australia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Adelaide (Australia)" target="Universidad del Norte (Colombia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="North Carolina Central University (United States)" target="University of North Carolina at Chapel Hill (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Oklahoma State University (United States)" target="University of Missouri (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Oklahoma State University (United States)" target="Washington University School of Medicine (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Missouri (United States)" target="Washington University School of Medicine (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Mazandaran (Iran)" target="University of North Carolina Wilmington (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad de Concepción (Chile)" target="Universidad de Talca (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad de Concepción (Chile)" target="Universidad de Valparaíso (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Campinas (Brazil)" target="Universidade Federal de Minas Gerais (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Campinas (Brazil)" target="Universidade Federal do Ceará (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual de Campinas (Brazil)" target="University of Manchester (UK)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica de Valparaíso (Chile)" target="Universidade do Minho (Portugal)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade do Minho (Portugal)" target="Universidade de Coimbra (Portugal)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pontificia Universidad Católica del Perú (Peru)" target="Universidad del Pacífico (Peru)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shahid Bahonar University (Iran)" target="University of Calgary (Canada)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shahid Bahonar University (Iran)" target="Yazd University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Calgary (Canada)" target="Yazd University (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="The Australian National University (Australia)" target="Universidad del Norte (Colombia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Topos: Data Science Consulting (Ecuador)" target="Universidad de Los Andes (Venezuela) (Venezuela)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ulm University (Germany)" target="University of Baghdad (Iraq)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Baghdad (Iraq)" target="University of Sumer (Iraq)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Andrés Bello (Chile)" target="Universidad Austral de Chile (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Andrés Bello (Chile)" target="Universidad de Valparaíso (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Austral de Chile (Chile)" target="Universidad de Valparaíso (Chile)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad Autónoma Agraria Antonio Narro (Mexico)" target="Universidad de Granada (Spain)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad de Granada (Spain)" target="Universidad de Huelva (Spain)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad EAFIT (Colombia)" target="Universidad de San Buenaventura (Colombia)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidad ORT (Uruguay)" target="Universidad de la República (Uruguay)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Aberta (Portugal)" target="University of West Attica (Greece)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual Paulista Júlio de Mesquita Filho (Brazil)" target="Universidade Federal do Rio Grande do Norte (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal do Rio Grande do Norte (Brazil)" target="Universidade Federal de Santa Maria (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal do Rio Grande do Norte (Brazil)" target="University of Texas at El Paso (United States)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Estadual da Paraíba (Brazil)" target="Universidade Federal de Campina Grande (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Minas Gerais (Brazil)" target="Universidade Federal de Uberlândia (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal de Alfenas (Brazil)" target="Universidade Federal de Lavras (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="Universidade Federal do Piauí (Brazil)" target="Universidade Federal do Rio Grande do Sul (Brazil)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Adrar (Algeria)" target="University of Southern Denmark (Denmark)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Benghazi (Libya)" target="University of Leeds (UK)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Birjand (Iran)" target="University of Gonabad (Iran)">
+  <data key="d0">1</data>
+</edge>
+<edge source="University of Padua (Italy)" target="Università di Perugia (Italy)">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

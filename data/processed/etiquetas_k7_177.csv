@@ -1,0 +1,178 @@
+﻿doc_id,year,title,cluster
+0,2010,Pilar Iglesias: A life of contributions to statistics,4
+1,2010,Multivariate unified skew-elliptical distributions,0
+2,2010,Some thoughts on the Bayesian robustness of location-scale models,1
+3,2010,Bayesian modeling of flash floods using generalized extreme value distribution with prior elicitation,3
+4,2010,Significance test for comparing digital gene expression profiles: Partial likelihood application,2
+5,2010,Portfolio selection: An application to the Chilean stock market,1
+6,2010,Influential observations in the independent Student-t measurement error model with weak nondifferential error,3
+7,2010,Linear regression with a dependent skewed Dirichlet process,0
+8,2010,Nonparametric Bayesian robustness,3
+9,2010,Bayesian identifiability: Contributions to an inconclusive debate,1
+10,2010,Multiple change-point analysis for linear regression models,1
+11,2010,Hypotheses testing for comparing means and variances of correlated responses in the symmetric non-normal case,0
+12,2011,Spearman’s footrule: Asymptotics in applications,2
+13,2011,A note on zonal polynomials,4
+14,2011,Teaching statistics: Some important tensions,1
+15,2011,The non-response in the change of mean and the sum of mean for current occasion in sampling on two occasions,5
+16,2011,Improved group sampling plans based on time-truncated life tests,2
+17,2011,On the kernel estimation of a multivariate distribution function under positive dependence,4
+18,2011,On a goodness-of-fit test for censored data from a location-scale distribution with applications,2
+19,2011,Positive spatial autocorrelation impacts on attribute variable frequency distributions,4
+20,2011,Local influence of explanatory variables in Gaussian spatial linear models,4
+21,2011,Optimization of spatial sample configurations using hybrid genetic algorithm and simulated annealing,4
+22,2011,Image segmentation based on wavelet feature descriptor and dimensionality reduction applied to remote sensing,2
+23,2011,Construction of triangle meshes from images at multiple scales based on median error metric,2
+24,2011,Mammography image detection processing for automatic micro-calcification recognition,2
+25,2011,Information theory and image understanding: An application to polarimetric SAR imagery,2
+26,2012,Training school teachers to teach probability: reflections and challenges,1
+27,2012,A Bayesian random effects model for survival probabilities after acute myocardial infarction,1
+28,2012,On the wavelet estimation of a function in a density model with non-identically distributed observations,3
+29,2012,On the singular values of the Hankel matrix with application in singular spectrum analysis,1
+30,2012,On linear mixed models and their influence diagnostics applied to an actuarial problem,1
+31,2012,Real estate appraisal of land lots using GAMLSS models,1
+32,2012,Discriminating between the bivariate generalized exponential and bivariate Weibull distributions,3
+33,2012,The work of Fernando de Helguero on non-normality arising from selection,0
+34,2012,A wrapped flexible generalized skew-normal model for a bimodal circular distribution of wind directions,0
+35,2012,A dengue fever study in the state of Rio de Janeiro with the use of generalized skew-normal/independent spatial fields,0
+36,2012,On the existence of some skew-normal stationary processes,0
+37,2012,Identifiability problems in some non-Gaussian spatial random fields,0
+38,2012,Selection of conditional independence graph models when the distribution is extended skew-normal,0
+39,2012,"On skewed continuous l(n,p)-symmetric distributions",0
+40,2013,Improved estimation of population mean using population proportion of an auxiliary character,5
+41,2013,Exact asymptotic goodness-of-fit testing for discrete circular data with applications,2
+42,2013,Reconstruction of chaotic dynamic systems using non-linear filters,2
+43,2013,Powerful goodness-of-fit tests for the extreme value distribution,2
+44,2013,Distributional results for L-statistics based on random vectors with multivariate elliptical distributions,0
+45,2013,A study of exponential-type tails applied to Birnbaum-Saunders models,1
+46,2013,Bayesian reference analysis for the Poisson-exponential lifetime distribution,3
+47,2013,The beta Weibull Poisson distribution,3
+48,2013,Stochastic representations and a geometric parametrization of the two-dimensional Gaussian law,3
+49,2013,A New Version of Local Linear Estimators,5
+50,2013,Model-based clustering using submixtures of Gaussian distributions,1
+51,2013,The effect of frailty term in the standard mixture model,1
+52,2013,On some properties of the beta Inverse Rayleigh distribution,3
+53,2013,Statistical analysis of locally stationary processes,1
+54,2014,Sub-model identification in the context of flexible distributions obtained by perturbation of symmetric densities,0
+55,2014,3D modelling and Depth Estimation in Archaeological Geophysics,3
+56,2014,On a Double Reparametrization for Accelerated Lifetime Testing,2
+57,2014,"Estimation of the ratio, product and mean using multi auxiliary variables in the presence of non-response",5
+58,2014,Goodness-of-fit Tests for Modified Multinomial Logit Models,2
+59,2014,Normal Population Parameters Estimation Using Moving Ranked Set Sampling: Grassland Biodiversity Application,5
+60,2014,Comparative study of Bhattacharyya and Kshirsagar bounds in Burr XII and Burr III distributions,5
+61,2014,Modeling Bounded Outcome Scores Using The Binomial-Logit-Normal Distribution,1
+62,2014,A multistate Markov model for the progression of liver cirrhosis in the presence of various prognostic factors,1
+63,2014,Generalized time-dependent complement log-log model,3
+64,2014,Improved Dual to Variance Ratio Type Estimators for Population Variance,5
+65,2014,A new Bivariate Distribution with Log-Exponentiated Kumaraswamy Marginals,3
+66,2014,Geometric representations of multivariate skewed elliptically contoured distributions,0
+67,2015,Bayesian analysis for a class of beta mixed models,1
+68,2015,Generalized linear longitudinal mixed models with linear covariance structure and multiplicative random effects,1
+69,2015,The Gamma Modified Weibull Distribution,3
+70,2015,"Sensitivity of the causality in variance tests to GARCH(1, 1) processes",2
+71,2015,Burr Type-XII Percentile Control Charts,6
+72,2015,Stochastic representations and a geometric parametrization of the two-dimensional Gaussian law,1
+73,2015,Credibility premiums for natural exponential family and general 0–1 loss function,3
+74,2015,Bayes prediction bound lengths for a repairable system,6
+75,2015,Transmuted Dagum distribution with applications,3
+76,2015,Regression analysis with compositional data containing zero values,2
+77,2015,An efficient class of estimators using two auxiliary attributes,5
+78,2015,A general family of dual to ratio-cum-product estimators of population mean in simple random sampling,5
+79,2015,A conversation with Oscar Bustos,1
+80,2016,Symmetrical linear calibration model to replicated data,0
+81,2016,Comparative inference and diagnostic in a reparametrized Birnbaum-Saunders regression model,1
+82,2016,Prediction of a financial crisis in Latin American companies using the mixed logistic regression model,1
+83,2016,On the improvement of product method of estimation in ranked set sampling,5
+84,2016,Bernoulli Difference Time Series Models,1
+85,2016,Using codispersion analysis to quantify temporal changes in the spatial pattern of forest stand structure,4
+86,2016,On the Hypothesis Testing for the Weighted Lindley Distribution,3
+87,2016,The Exponentiated Gompertz Generated Family of Distributions: Properties and Applications,3
+88,2016,Modeling ordinal longitudinal outcomes: an applied perspective of marginal and conditional approaches,1
+89,2016,Stereographic Logistic Model - Application to Noisy Scrub Birds Data,3
+90,2017,A Hierarchical Mixture Beta Dynamic Model of School Performance in the Brazilian Mathematical Olympiads for Public Schools,1
+91,2017,The Poisson-Weibull Regression Model,3
+92,2017,Extension of a graphical diagnostic test for contingency tables,2
+93,2017,A new extension of power Lindley distribution for analyzing bimodal data,3
+94,2017,Estimating Ordered Scale Parameters of Two Exponential Populations With a Common Location Under Type-II Censoring,5
+95,2017,Analysis of Single-Index Models with Scale Mixture of Normals Errors by Using Bayesian P-Splines,3
+96,2017,Bayesian computational methods for estimation of two-parameters Weibull distribution in presence of right-censored data,3
+97,2017,Estimation for a family of skew scale-mixture distributions,0
+98,2017,"The Odd Exponentiated Half-Logistic-G Family: Properties, Characterizations and Applications",3
+99,2018,Impacts of negative spatial autocorrelation on frequency distributions,4
+100,2018,On the estimation of change points in the Beer-Lambert law problem,2
+101,2018,A goodness of fit test for the Pareto distribution,2
+102,2018,The unit-Birnbaum-Saunders distribution with applications,3
+103,2018,The next winner of the 2018 FIFA World Cup will be...: An illustration of the use of statistical simulation to make a prediction in a complex tournament,2
+104,2018,Likelihood analysis for a class of simplex mixed models,1
+105,2018,Convergence analysis of an elitist non-homogeneous genetic algorithm with crossover/mutation probabilities adjusted by a fuzzy controller,3
+106,2018,Compositional regression modeling under tilted normal errors: An application to a Brazilian Super League Volleyball data set,0
+107,2018,Estimation of the probability function under special moments conditions using the maximum Shannon and Tsallis entropies,3
+108,2019,A combined Fourier analysis and support vector machine for EEG classification,1
+109,2019,Linear regression models using finite mixtures of skew heavy-tailed distributions,0
+110,2019,Goodness-of-fit test for the Birnbaum-Saunders distribution based on the Kullback-Leibler information,2
+111,2019,A new Birnbaum-Saunders type distribution based on the skew-normal model under a centered parameterization,0
+112,2019,The Harris extended Lindley distribution for modeling hydrological data,3
+113,2019,On an asymmetric extension of the tobit model based on the tilted-normal distribution,3
+114,2019,Mixing conditions of conjugate processes,1
+115,2019,Performance of Shewhart control charts based on neoteric ranked set sampling to monitor the process mean for normal and non-normal processes,6
+116,2019,GARCH-in-mean models with asymmetric variance processes for bivariate European option evaluation,1
+117,2019,Nonparametric estimation of the relative error in functional regression and censored data,5
+118,2020,The erf-G family: new unconditioned and log-linear regression models,3
+119,2020,Detecting outliers in I ⇥ J tables through the level of susceptibility,2
+120,2020,A likelihood ratio test for correlated paired multivariate samples,2
+121,2020,A new one-parameter unit-Lindley distribution,3
+122,2020,Robust kernel regression estimator of the scale parameter for functional ergodic data with applications,5
+123,2020,Inference for the trivariate Marshall-Olkin-Weibull distribution in presence of right-censored data,3
+124,2020,On new robust tests for the multivariate normal mean vector with high-dimensional data and applications,2
+125,2020,Improved parameter estimation of the Chaudhry and Ahmad distribution with climate applications,3
+126,2020,A timetabling system for scheduling courses of statistics and data science: Methodology and case study,1
+127,2020,Modeling bounded data with the trapezoidal Kumaraswamy distribution and applications to education and engineering,3
+128,2021,Bootstrap control charts for the generalized Pareto distribution percentiles,6
+129,2021,Exact tables for the Friedman rank test: Case with ties,2
+130,2021,Control chart for monitoring the mean in symmetric data,6
+131,2021,Bayesian long-term survival model including a frailty term: Application to melanoma data,1
+132,2021,Distance-based edge detection on synthetic aperture radar imagery,2
+133,2021,Alternatives to the logit model in the situation of factor levels aggregation in binomial responses,1
+134,2021,Bayesian analysis of an item response model with an AEP-based link function,1
+135,2021,On some properties of the bimodal normal distribution and its bivariate version,3
+136,2021,Nonparametric relative error regression for functional time series data under random censorship,5
+137,2021,Robust Hotelling T2 control chart using adaptive reweighted minimum covariance determinant estimator,6
+138,2021,"Lomax regression model with varying precision: Formulation, estimation, diagnostics, and application",2
+139,2021,On an elliptical thin-plate spline partially varying-coecient model,3
+140,2021,On a weighted Poisson distribution and its associated regression model,1
+141,2022,Multivariate spatial prediction based on Andrews curves and functional geostatistics,4
+142,2022,Dissecting Chilean surveys: The case of missing outcomes,1
+143,2022,A Bayesian detection of structural changes in autoregressive time series models,1
+144,2022,"On the Topp-Leone log-normal distribution: Properties, modeling, and applications in astronomical and cancer data",3
+145,2022,The Mc-Donald Chen distribution: A new bimodal distribution with properties and applications,3
+146,2022,The arctan family of distributions: New results with applications,3
+147,2022,Spatial autocorrelation and unorthodox random variables: the uniform distribution,4
+148,2022,Nonparametric log kernel estimator of extropy function,5
+149,2022,Inter-rater agreement and adjusted overall degree of distinguishability for ordered categories,2
+150,2022,Computing the noncentrality parameter to the distribution of the square of the sample multiple correlation coefficient,3
+151,2022,POT-based estimator of the ruin probability in infinite time for loss models: An application to insurance risk,1
+152,2022,Orthogonal decomposition of symmetry model using sum-symmetry model for ordinal square contingency tables,1
+153,2023,"An extended Rayleigh model: Properties, regression and COVID-19 application",3
+154,2023,On the impact of missing outcomes in linear regression,1
+155,2023,A ladder ascending control chart with application in wind energy industry,6
+156,2023,Critical value functions for likelihood-ratio tests under normality,2
+157,2023,"The exponentiated power Ishita distribution: Properties, simulations, regression, and applications",3
+158,2023,An alternative procedure for testing equality of treatment effects under circular responses,2
+159,2023,"New exponentiated -Weibull -G family: Properties, simulations, regression and applications to COVID-19 data",3
+160,2023,Inflated log-Lindley distribution for modeling continuous data bounded in unit interval with possible mass at boundaries,3
+161,2023,Some additional facts about the unit-Gompertz distribution,3
+162,2024,Unveiling patterns and trends in research on cumulative damage models for statistical and reliability analyses: Bibliometric and thematic explorations with data analytics,0
+163,2024,Parameter estimation of the alpha-stable distribution and applications to financial data,3
+164,2024,A new goodness-of-fit test for the Cauchy distribution,2
+165,2024,"The Weibull flexible generalized family of bimodal distributions: Properties, simulation, regression models, and applications",3
+166,2024,Small area estimation using multiple imputation in three-parameter logistic models,3
+167,2024,Finite-sample critical values for goodness-of-fit tests under the exponential distribution,2
+168,2024,Statistical inference for first-order periodic autoregressive conditional heteroscedasticity models,1
+169,2024,"Likelihood function: Definition, examples, and numerical experiments",3
+170,2024,A method of multi-dimensional variable selection for additive partial linear models,1
+171,2024,On a Stahel-Donoho estimator with skewness-based random projection directions,0
+172,2025,Tail-adaptive generation of random numbers from a gamma-order normal distribution using the Ziggurat algorithm with a multivariate extension,3
+173,2025,Fast double bootstrap tests for non-nested beta regressions,2
+174,2025,Statistical inference for the marginalized zero-inflated Bell regression model with missing covariates,1
+175,2025,Closed-form solutions for parameter estimation in exponential families based on maximum a posteriori equations,3
+176,2025,A statistical methodology for assessing the impact of the Financial Inclusion 90 Program under limited compliance,4

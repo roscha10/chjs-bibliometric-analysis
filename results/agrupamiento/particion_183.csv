@@ -1,0 +1,184 @@
+﻿doc_id,year,title,grupo,nombre_grupo,segunda_etapa,pais,n_paises,universidad
+0,2010,Pilar Iglesias: A life of contributions to statistics,5,Estadística espacial,False,Chile,1,Pontificia Universidad Católica de Chile
+1,2010,Multivariate unified skew-elliptical distributions,1,Distribuciones simétricas y elípticas,False,Chile,2,Pontificia Universidad Católica de Chile
+2,2010,Some thoughts on the Bayesian robustness of location-scale models,2,"Modelos bayesianos, mixtos y de regresión",False,Mexico,1,Instituto Tecnológico Autónomo de México
+3,2010,Bayesian modeling of flash floods using generalized extreme value distribution with prior elicitation,4,Inferencia paramétrica por máxima verosimilitud,False,United States,2,IBM
+4,2010,Significance test for comparing digital gene expression profiles: Partial likelihood application,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade de São Paulo
+5,2010,Semiparametric Bayesian inference for repeated fractional measurement data,2,"Modelos bayesianos, mixtos y de regresión",True,United States,1,Bristol-Myers Squibb Company
+6,2010,Portfolio selection: An application to the Chilean stock market,2,"Modelos bayesianos, mixtos y de regresión",False,Chile,2,Pontificia Universidad Católica de Chile
+7,2010,Influential observations in the independent Student-t measurement error model with weak nondifferential error,4,Inferencia paramétrica por máxima verosimilitud,False,Chile,1,Universidad de Talca
+8,2010,Linear regression with a dependent skewed Dirichlet process,1,Distribuciones simétricas y elípticas,False,Chile,1,Pontificia Universidad Católica de Chile
+9,2010,Nonparametric Bayesian robustness,4,Inferencia paramétrica por máxima verosimilitud,False,Italy,1,CNR IMATI
+10,2010,Bayesian identifiability: Contributions to an inconclusive debate,2,"Modelos bayesianos, mixtos y de regresión",False,Chile,1,Pontificia Universidad Católica de Chile
+11,2010,Multiple change-point analysis for linear regression models,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal de Minas Gerais
+12,2010,Hypotheses testing for comparing means and variances of correlated responses in the symmetric non-normal case,1,Distribuciones simétricas y elípticas,False,Chile,2,Pontificia Universidad Católica de Chile
+13,2011,Spearman’s footrule: Asymptotics in applications,3,Pruebas de bondad de ajuste,False,United States,1,University of North Carolina at Chapel Hill
+14,2011,A note on zonal polynomials,5,Estadística espacial,False,Mexico,2,Universidad Autónoma Agraria Antonio Narro
+15,2011,Teaching statistics: Some important tensions,2,"Modelos bayesianos, mixtos y de regresión",False,United States,1,Mount Holyoke College
+16,2011,The non-response in the change of mean and the sum of mean for current occasion in sampling on two occasions,6,Muestreo y estimación poblacional,False,Spain,1,Universidad de Almería
+17,2011,Improved group sampling plans based on time-truncated life tests,3,Pruebas de bondad de ajuste,False,Pakistan,2,Forman Christian College University
+18,2011,On the kernel estimation of a multivariate distribution function under positive dependence,5,Estadística espacial,False,Portugal,1,Universidade do Minho
+19,2011,On a goodness-of-fit test for censored data from a location-scale distribution with applications,3,Pruebas de bondad de ajuste,False,Argentina,1,Instituto Tecnológico de Buenos Aires
+20,2011,Positive spatial autocorrelation impacts on attribute variable frequency distributions,5,Estadística espacial,False,United States,1,University of Texas at Dallas
+21,2011,Local influence of explanatory variables in Gaussian spatial linear models,5,Estadística espacial,False,Brazil,2,Universidade de São Paulo
+22,2011,Optimization of spatial sample configurations using hybrid genetic algorithm and simulated annealing,5,Estadística espacial,False,Brazil,1,Universidade Estadual do Oeste do Paraná
+23,2011,Image segmentation based on wavelet feature descriptor and dimensionality reduction applied to remote sensing,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Estadual de Campinas
+24,2011,Construction of triangle meshes from images at multiple scales based on median error metric,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Estadual de Campinas
+25,2011,Mammography image detection processing for automatic micro-calcification recognition,3,Pruebas de bondad de ajuste,False,Argentina,1,CONICET
+26,2011,Information theory and image understanding: An application to polarimetric SAR imagery,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Federal de Alagoas
+27,2012,Training school teachers to teach probability: reflections and challenges,2,"Modelos bayesianos, mixtos y de regresión",False,Spain,1,Universidad de Granada
+28,2012,A Bayesian random effects model for survival probabilities after acute myocardial infarction,2,"Modelos bayesianos, mixtos y de regresión",False,Italy,1,Politecnico di Milano
+29,2012,On the wavelet estimation of a function in a density model with non-identically distributed observations,4,Inferencia paramétrica por máxima verosimilitud,False,France,2,Université de Caen Basse-Normandie
+30,2012,On the singular values of the Hankel matrix with application in singular spectrum analysis,2,"Modelos bayesianos, mixtos y de regresión",False,Iran,1,Shahid Beheshti University
+31,2012,On linear mixed models and their influence diagnostics applied to an actuarial problem,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal do Ceará
+32,2012,Real estate appraisal of land lots using GAMLSS models,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Banco do Nordeste do Brasil S.A
+33,2012,Discriminating between the bivariate generalized exponential and bivariate Weibull distributions,4,Inferencia paramétrica por máxima verosimilitud,False,India,1,IIT Gauhati
+34,2012,The work of Fernando de Helguero on non-normality arising from selection,1,Distribuciones simétricas y elípticas,False,Italy,1,University of Padua
+35,2012,A wrapped flexible generalized skew-normal model for a bimodal circular distribution of wind directions,1,Distribuciones simétricas y elípticas,False,Italy,1,University of Padua
+36,2012,A dengue fever study in the state of Rio de Janeiro with the use of generalized skew-normal/independent spatial fields,1,Distribuciones simétricas y elípticas,False,Brazil,2,Universidade Federal de Minas Gerais
+37,2012,On the existence of some skew-normal stationary processes,1,Distribuciones simétricas y elípticas,False,Italy,1,University of Verona
+38,2012,Identifiability problems in some non-Gaussian spatial random fields,1,Distribuciones simétricas y elípticas,False,United States,1,Texas A&M University
+39,2012,Selection of conditional independence graph models when the distribution is extended skew-normal,1,Distribuciones simétricas y elípticas,False,Italy,1,University of Sannio
+40,2012,"On skewed continuous l(n,p)-symmetric distributions",1,Distribuciones simétricas y elípticas,False,Chile,2,Pontificia Universidad Católica de Chile
+41,2013,Improved estimation of population mean using population proportion of an auxiliary character,6,Muestreo y estimación poblacional,False,India,1,Vikram University
+42,2013,Exact asymptotic goodness-of-fit testing for discrete circular data with applications,3,Pruebas de bondad de ajuste,False,Canada,1,University of Victoria
+43,2013,Reconstruction of chaotic dynamic systems using non-linear filters,3,Pruebas de bondad de ajuste,False,Venezuela,1,University Carabobo
+44,2013,Powerful goodness-of-fit tests for the extreme value distribution,3,Pruebas de bondad de ajuste,False,Sweden,1,Lund University
+45,2013,Distributional results for L-statistics based on random vectors with multivariate elliptical distributions,1,Distribuciones simétricas y elípticas,False,Iran,2,University of Calgary
+46,2013,A study of exponential-type tails applied to Birnbaum-Saunders models,2,"Modelos bayesianos, mixtos y de regresión",False,Portugal,1,Universidade do Minho
+47,2013,Bayesian reference analysis for the Poisson-exponential lifetime distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de São Carlos
+48,2013,The beta Weibull Poisson distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Estadual de Feira de Santana
+49,2013,Stochastic representations and a geometric parametrization of the two-dimensional Gaussian law,4,Inferencia paramétrica por máxima verosimilitud,False,Germany,1,University of Rostock
+50,2013,A New Version of Local Linear Estimators,6,Muestreo y estimación poblacional,False,Iraq,2,University of Baghdad
+51,2013,Model-based clustering using submixtures of Gaussian distributions,2,"Modelos bayesianos, mixtos y de regresión",False,Mexico,1,Universidad Nacional Autónoma de México
+52,2013,The effect of frailty term in the standard mixture model,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade de São Paulo
+53,2013,On some properties of the beta Inverse Rayleigh distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal do Piauí
+54,2013,Statistical analysis of locally stationary processes,2,"Modelos bayesianos, mixtos y de regresión",False,Chile,1,Universidad de Concepción
+55,2014,Sub-model identification in the context of flexible distributions obtained by perturbation of symmetric densities,1,Distribuciones simétricas y elípticas,False,Italy,1,University of Sannio
+56,2014,3D modelling and Depth Estimation in Archaeological Geophysics,4,Inferencia paramétrica por máxima verosimilitud,False,UK,2,University of Leeds
+57,2014,On a Double Reparametrization for Accelerated Lifetime Testing,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade de São Paulo
+58,2014,"Estimation of the ratio, product and mean using multi auxiliary variables in the presence of non-response",6,Muestreo y estimación poblacional,False,India,1,Alliance University
+59,2014,Goodness-of-fit Tests for Modified Multinomial Logit Models,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Federal de Lavras
+60,2014,Normal Population Parameters Estimation Using Moving Ranked Set Sampling: Grassland Biodiversity Application,6,Muestreo y estimación poblacional,False,United Arab Emirates,3,University of Sharjah
+61,2014,Comparative study of Bhattacharyya and Kshirsagar bounds in Burr XII and Burr III distributions,6,Muestreo y estimación poblacional,False,Iran,1,Ferdowsi University of Mashhad
+62,2014,Modeling Bounded Outcome Scores Using The Binomial-Logit-Normal Distribution,2,"Modelos bayesianos, mixtos y de regresión",False,United States,1,Oklahoma State University
+63,2014,A multistate Markov model for the progression of liver cirrhosis in the presence of various prognostic factors,2,"Modelos bayesianos, mixtos y de regresión",False,India,1,University of Delhi
+64,2014,Generalized time-dependent complement log-log model,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de São Carlos
+65,2014,Improved Dual to Variance Ratio Type Estimators for Population Variance,6,Muestreo y estimación poblacional,False,India,1,Banaras Hindu University
+66,2014,A new Bivariate Distribution with Log-Exponentiated Kumaraswamy Marginals,4,Inferencia paramétrica por máxima verosimilitud,False,Egypt,1,Cairo University
+67,2014,Geometric representations of multivariate skewed elliptically contoured distributions,1,Distribuciones simétricas y elípticas,False,Germany,1,University of Rostock
+68,2015,Bayesian analysis for a class of beta mixed models,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal do Paraná
+69,2015,Generalized linear longitudinal mixed models with linear covariance structure and multiplicative random effects,2,"Modelos bayesianos, mixtos y de regresión",False,Denmark,1,University of Southern Denmark
+70,2015,The Gamma Modified Weibull Distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Pernambuco
+71,2015,"Sensitivity of the causality in variance tests to GARCH(1, 1) processes",3,Pruebas de bondad de ajuste,False,Sweden,1,Lund University
+72,2015,Burr Type-XII Percentile Control Charts,7,Control estadístico de procesos,False,United States,1,University of South Dakota
+73,2015,Stochastic representations and a geometric parametrization of the two-dimensional Gaussian law,2,"Modelos bayesianos, mixtos y de regresión",False,China,1,Shantou University
+74,2015,Credibility premiums for natural exponential family and general 0–1 loss function,4,Inferencia paramétrica por máxima verosimilitud,False,Spain,2,Universidad de Las Palmas de Gran Canaria
+75,2015,Bayes prediction bound lengths for a repairable system,7,Control estadístico de procesos,False,India,1,S. N. Medical College
+76,2015,Transmuted Dagum distribution with applications,4,Inferencia paramétrica por máxima verosimilitud,False,Egypt,2,Cairo University
+77,2015,Regression analysis with compositional data containing zero values,3,Pruebas de bondad de ajuste,False,Greece,1,University of Crete
+78,2015,An efficient class of estimators using two auxiliary attributes,6,Muestreo y estimación poblacional,False,India,1,University of Petroleum and Energy Studies
+79,2015,A general family of dual to ratio-cum-product estimators of population mean in simple random sampling,6,Muestreo y estimación poblacional,False,India,1,Indian School of Mines
+80,2015,A conversation with Oscar Bustos,2,"Modelos bayesianos, mixtos y de regresión",False,Chile,2,Universidad Técnica Federico Santa María
+81,2016,Symmetrical linear calibration model to replicated data,1,Distribuciones simétricas y elípticas,False,Brazil,1,Universidade Federal de Pernambuco
+82,2016,Comparative inference and diagnostic in a reparametrized Birnbaum-Saunders regression model,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal de Pernambuco
+83,2016,Prediction of a financial crisis in Latin American companies using the mixed logistic regression model,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,2,Universidade de São Paulo
+84,2016,On the improvement of product method of estimation in ranked set sampling,6,Muestreo y estimación poblacional,False,India,1,Mohanlal Sukhadia University
+85,2016,Bernoulli Difference Time Series Models,2,"Modelos bayesianos, mixtos y de regresión",False,Saudi Arabia,1,King Saud University
+86,2016,Using codispersion analysis to quantify temporal changes in the spatial pattern of forest stand structure,5,Estadística espacial,False,New Zealand,2,Lincoln University
+87,2016,On the Hypothesis Testing for the Weighted Lindley Distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Estadual de Maringá
+88,2016,The Exponentiated Gompertz Generated Family of Distributions: Properties and Applications,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,2,Universidade Federal de Pernambuco
+89,2016,Modeling ordinal longitudinal outcomes: an applied perspective of marginal and conditional approaches,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal de Minas Gerais
+90,2016,Stereographic Logistic Model - Application to Noisy Scrub Birds Data,4,Inferencia paramétrica por máxima verosimilitud,False,India,1,Acharya Nagarjuna University
+91,2017,A Hierarchical Mixture Beta Dynamic Model of School Performance in the Brazilian Mathematical Olympiads for Public Schools,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,2,McGill University
+92,2017,The Poisson-Weibull Regression Model,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Mato Grosso do Sul
+93,2017,Extension of a graphical diagnostic test for contingency tables,3,Pruebas de bondad de ajuste,False,Australia,2,Universidad del Norte
+94,2017,A new extension of power Lindley distribution for analyzing bimodal data,4,Inferencia paramétrica por máxima verosimilitud,False,Iran,2,Persian Gulf University
+95,2017,Estimating Ordered Scale Parameters of Two Exponential Populations With a Common Location Under Type-II Censoring,6,Muestreo y estimación poblacional,False,India,1,National Institute of Technology Rourkela
+96,2017,Analysis of Single-Index Models with Scale Mixture of Normals Errors by Using Bayesian P-Splines,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal da Bahia
+97,2017,Bayesian computational methods for estimation of two-parameters Weibull distribution in presence of right-censored data,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Mato Grosso do Sul
+98,2017,Estimation for a family of skew scale-mixture distributions,1,Distribuciones simétricas y elípticas,False,Brazil,2,Universidade Federal do Amazonas
+99,2017,"The Odd Exponentiated Half-Logistic-G Family: Properties, Characterizations and Applications",4,Inferencia paramétrica por máxima verosimilitud,False,Turkey,4,Benha University
+100,2018,Impacts of negative spatial autocorrelation on frequency distributions,5,Estadística espacial,False,United States,1,University of Texas at Dallas
+101,2018,On the estimation of change points in the Beer-Lambert law problem,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Federal de Juiz de Fora
+102,2018,A goodness of fit test for the Pareto distribution,3,Pruebas de bondad de ajuste,False,Mexico,1,Colegio de Postgraduados
+103,2018,The unit-Birnbaum-Saunders distribution with applications,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,2,Universidade Estadual de Maringá
+104,2018,The next winner of the 2018 FIFA World Cup will be...: An illustration of the use of statistical simulation to make a prediction in a complex tournament,3,Pruebas de bondad de ajuste,False,Colombia,2,Universidad Nacional de Colombia
+105,2018,Likelihood analysis for a class of simplex mixed models,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal do Paraná
+106,2018,Convergence analysis of an elitist non-homogeneous genetic algorithm with crossover/mutation probabilities adjusted by a fuzzy controller,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal do Rio Grande do Norte
+107,2018,Compositional regression modeling under tilted normal errors: An application to a Brazilian Super League Volleyball data set,1,Distribuciones simétricas y elípticas,False,Brazil,1,Universidade de São Paulo
+108,2018,Estimation of the probability function under special moments conditions using the maximum Shannon and Tsallis entropies,4,Inferencia paramétrica por máxima verosimilitud,False,Iran,1,Birjand University of Technology
+109,2019,A combined Fourier analysis and support vector machine for EEG classification,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,2,Universidade Federal do Rio Grande do Norte
+110,2019,Linear regression models using finite mixtures of skew heavy-tailed distributions,1,Distribuciones simétricas y elípticas,False,Peru,3,Pontificia Universidad Católica del Perú
+111,2019,Goodness-of-fit test for the Birnbaum-Saunders distribution based on the Kullback-Leibler information,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Estadual da Paraíba
+112,2019,A new Birnbaum-Saunders type distribution based on the skew-normal model under a centered parameterization,1,Distribuciones simétricas y elípticas,False,Brazil,1,Universidade Estadual de Campinas
+113,2019,The Harris extended Lindley distribution for modeling hydrological data,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,3,Universidade Federal de Pernambuco
+114,2019,On an asymmetric extension of the tobit model based on the tilted-normal distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal da Bahia
+115,2019,Mixing conditions of conjugate processes,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal do Rio Grande do Sul
+116,2019,Performance of Shewhart control charts based on neoteric ranked set sampling to monitor the process mean for normal and non-normal processes,7,Control estadístico de procesos,False,Brazil,1,Universidade Federal do Paraná
+117,2019,GARCH-in-mean models with asymmetric variance processes for bivariate European option evaluation,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade de São Paulo
+118,2019,Nonparametric estimation of the relative error in functional regression and censored data,6,Muestreo y estimación poblacional,False,Algeria,1,Université Djillali Liabès de Sidi Bel Abbès
+119,2020,The erf-G family: new unconditioned and log-linear regression models,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal do Rio Grande do Norte
+120,2020,Detecting outliers in I ⇥ J tables through the level of susceptibility,3,Pruebas de bondad de ajuste,False,India,1,University of Madras
+121,2020,A likelihood ratio test for correlated paired multivariate samples,3,Pruebas de bondad de ajuste,False,Mexico,1,Centro de Investigación en Matemáticas (CIMAT)
+122,2020,A new one-parameter unit-Lindley distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,2,Universidade Estadual de Maringá
+123,2020,Robust kernel regression estimator of the scale parameter for functional ergodic data with applications,6,Muestreo y estimación poblacional,False,Algeria,2,King Khalid University
+124,2020,Inference for the trivariate Marshall-Olkin-Weibull distribution in presence of right-censored data,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,2,Universidade de São Paulo
+125,2020,On new robust tests for the multivariate normal mean vector with high-dimensional data and applications,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Federal de Lavras
+126,2020,Improved parameter estimation of the Chaudhry and Ahmad distribution with climate applications,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,3,Universidade Estadual de Maringá
+127,2020,A timetabling system for scheduling courses of statistics and data science: Methodology and case study,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade Federal de Pernambuco
+128,2020,Modeling bounded data with the trapezoidal Kumaraswamy distribution and applications to education and engineering,4,Inferencia paramétrica por máxima verosimilitud,False,Chile,1,Universidad de Concepción
+129,2021,Bootstrap control charts for the generalized Pareto distribution percentiles,7,Control estadístico de procesos,False,United States,1,University of South Dakota
+130,2021,Exact tables for the Friedman rank test: Case with ties,3,Pruebas de bondad de ajuste,False,Uruguay,1,Universidad ORT
+131,2021,Control chart for monitoring the mean in symmetric data,7,Control estadístico de procesos,False,Brazil,1,Universidade de São Paulo
+132,2021,Bayesian long-term survival model including a frailty term: Application to melanoma data,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,2,Universidade Federal do Espírito Santo
+133,2021,Distance-based edge detection on synthetic aperture radar imagery,3,Pruebas de bondad de ajuste,False,Brazil,2,Universidade Federal de Pernambuco
+134,2021,Alternatives to the logit model in the situation of factor levels aggregation in binomial responses,2,"Modelos bayesianos, mixtos y de regresión",False,Venezuela,2,Universidad de Los Andes (Venezuela)
+135,2021,Bayesian analysis of an item response model with an AEP-based link function,2,"Modelos bayesianos, mixtos y de regresión",False,Mexico,1,Universidad Autónoma de Guerrero
+136,2021,On some properties of the bimodal normal distribution and its bivariate version,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade de Brasília
+137,2021,Nonparametric relative error regression for functional time series data under random censorship,6,Muestreo y estimación poblacional,False,Algeria,2,Université Djillali Liabès de Sidi Bel Abbès
+138,2021,Robust Hotelling T2 control chart using adaptive reweighted minimum covariance determinant estimator,7,Control estadístico de procesos,False,Turkey,1,Hacettepe University
+139,2021,"Lomax regression model with varying precision: Formulation, estimation, diagnostics, and application",3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Federal do Rio Grande do Norte
+140,2021,On an elliptical thin-plate spline partially varying-coecient model,4,Inferencia paramétrica por máxima verosimilitud,False,Chile,1,Universidad Austral de Chile
+141,2021,On a weighted Poisson distribution and its associated regression model,2,"Modelos bayesianos, mixtos y de regresión",False,Brazil,1,Universidade de Brasília
+142,2022,Multivariate spatial prediction based on Andrews curves and functional geostatistics,5,Estadística espacial,False,Colombia,1,Universidad Nacional de Colombia
+143,2022,Dissecting Chilean surveys: The case of missing outcomes,2,"Modelos bayesianos, mixtos y de regresión",False,Chile,2,Pontificia Universidad Católica de Chile
+144,2022,A Bayesian detection of structural changes in autoregressive time series models,2,"Modelos bayesianos, mixtos y de regresión",False,Denmark,2,University of Southern Denmark
+145,2022,"On the Topp-Leone log-normal distribution: Properties, modeling, and applications in astronomical and cancer data",4,Inferencia paramétrica por máxima verosimilitud,False,India,2,Université de Caen Basse-Normandie
+146,2022,The Mc-Donald Chen distribution: A new bimodal distribution with properties and applications,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Pernambuco
+147,2022,The arctan family of distributions: New results with applications,4,Inferencia paramétrica por máxima verosimilitud,False,Spain,2,Universidad de Las Palmas de Gran Canaria
+148,2022,Spatial autocorrelation and unorthodox random variables: the uniform distribution,5,Estadística espacial,False,United States,1,University of Texas at Dallas
+149,2022,Nonparametric log kernel estimator of extropy function,6,Muestreo y estimación poblacional,False,India,1,Cochin University of Science and Technology
+150,2022,Inter-rater agreement and adjusted overall degree of distinguishability for ordered categories,3,Pruebas de bondad de ajuste,False,Turkey,1,Hacettepe University
+151,2022,Computing the noncentrality parameter to the distribution of the square of the sample multiple correlation coefficient,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Lavras
+152,2022,POT-based estimator of the ruin probability in infinite time for loss models: An application to insurance risk,2,"Modelos bayesianos, mixtos y de regresión",False,Algeria,1,Blida 1 University
+153,2022,Orthogonal decomposition of symmetry model using sum-symmetry model for ordinal square contingency tables,2,"Modelos bayesianos, mixtos y de regresión",False,Japan,1,Tokyo University of Science
+154,2023,"An extended Rayleigh model: Properties, regression and COVID-19 application",4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Pernambuco
+155,2023,On the impact of missing outcomes in linear regression,2,"Modelos bayesianos, mixtos y de regresión",False,Chile,2,Pontificia Universidad Católica de Chile
+156,2023,A ladder ascending control chart with application in wind energy industry,7,Control estadístico de procesos,False,Pakistan,1,Govt. Islamia College Railway Road
+157,2023,Critical value functions for likelihood-ratio tests under normality,3,Pruebas de bondad de ajuste,False,Pakistan,3,"Crop Reporting Service, Agriculture Department, Punjab"
+158,2023,"The exponentiated power Ishita distribution: Properties, simulations, regression, and applications",4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Pernambuco
+159,2023,An alternative procedure for testing equality of treatment effects under circular responses,3,Pruebas de bondad de ajuste,False,India,1,Indian Statistical Institute
+160,2023,"New exponentiated -Weibull -G family: Properties, simulations, regression and applications to COVID-19 data",4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Pernambuco
+161,2023,Inflated log-Lindley distribution for modeling continuous data bounded in unit interval with possible mass at boundaries,4,Inferencia paramétrica por máxima verosimilitud,False,India,1,Gauhati University
+162,2023,Some additional facts about the unit-Gompertz distribution,4,Inferencia paramétrica por máxima verosimilitud,False,Czech Republic,5,Quaid-i-Azam University
+163,2024,Unveiling patterns and trends in research on cumulative damage models for statistical and reliability analyses: Bibliometric and thematic explorations with data analytics,1,Distribuciones simétricas y elípticas,False,Brazil,3,Pontificia Universidad Católica de Valparaíso
+164,2024,Parameter estimation of the alpha-stable distribution and applications to financial data,4,Inferencia paramétrica por máxima verosimilitud,False,Morocco,1,Sidi Mohamed Ben Abdellah University
+165,2024,A new goodness-of-fit test for the Cauchy distribution,3,Pruebas de bondad de ajuste,False,Iran,1,University of Birjand
+166,2024,"The Weibull flexible generalized family of bimodal distributions: Properties, simulation, regression models, and applications",4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Pernambuco
+167,2024,Small area estimation using multiple imputation in three-parameter logistic models,4,Inferencia paramétrica por máxima verosimilitud,False,Colombia,2,Fundación Universitaria Los Libertadores
+168,2024,Finite-sample critical values for goodness-of-fit tests under the exponential distribution,3,Pruebas de bondad de ajuste,False,Pakistan,1,"Crop Reporting Service, Agriculture Department, Punjab"
+169,2024,Statistical inference for first-order periodic autoregressive conditional heteroscedasticity models,2,"Modelos bayesianos, mixtos y de regresión",False,Algeria,1,Larbi Ben M’hidi University
+170,2024,"Likelihood function: Definition, examples, and numerical experiments",4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade Federal de Minas Gerais
+171,2024,A method of multi-dimensional variable selection for additive partial linear models,2,"Modelos bayesianos, mixtos y de regresión",False,Iraq,1,University of Baghdad
+172,2024,On a Stahel-Donoho estimator with skewness-based random projection directions,1,Distribuciones simétricas y elípticas,False,Colombia,1,Universidad de San Buenaventura
+173,2025,Tail-adaptive generation of random numbers from a gamma-order normal distribution using the Ziggurat algorithm with a multivariate extension,4,Inferencia paramétrica por máxima verosimilitud,False,Portugal,2,University of West Attica
+174,2025,Fast double bootstrap tests for non-nested beta regressions,3,Pruebas de bondad de ajuste,False,Brazil,1,Universidade Federal de Pernambuco
+175,2025,Statistical inference for the marginalized zero-inflated Bell regression model with missing covariates,2,"Modelos bayesianos, mixtos y de regresión",False,Côte d’Ivoire,1,Institut National Polytechnique Félix Houphouët-Boigny
+176,2025,Closed-form solutions for parameter estimation in exponential families based on maximum a posteriori equations,4,Inferencia paramétrica por máxima verosimilitud,False,Brazil,1,Universidade de Brasília
+177,2025,A statistical methodology for assessing the impact of the Financial Inclusion 90 Program under limited compliance,5,Estadística espacial,False,Chile,1,Pontificia Universidad Católica de Chile
+178,2025,A class of multivariate max-infinitely divisible distributions based on random scaling,4,Inferencia paramétrica por máxima verosimilitud,True,Canada,2,McGill University
+179,2025,"Non-Markov multi-state survival analysis with complex censoring: A structured synthesis of models, estimators, and applications",2,"Modelos bayesianos, mixtos y de regresión",True,Portugal,1,Universidade do Minho
+180,2025,Short-horizon volatility spike forecasting via integrated functional and topological representations,2,"Modelos bayesianos, mixtos y de regresión",True,Turkey,1,Giresun University
+181,2025,On the use of the concentration function to compare predictive distributions in ARMA models,2,"Modelos bayesianos, mixtos y de regresión",True,Honduras,2,National Autonomous University of Honduras
+182,2025,Maximum composite Lq-likelihood for robust spatial covariance estimation,5,Estadística espacial,True,Saudi Arabia,1,King Abdullah University of Science and Technology

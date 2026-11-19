@@ -1,35 +1,35 @@
-# Extracción de metadatos (OCR + web scraping)
-requests>=2.31
-beautifulsoup4>=4.12
-pdf2image>=1.17
-pytesseract>=0.3.10
-PyMuPDF>=1.24
-pycountry>=23.12
-tqdm>=4.66
+# Versiones con las que se obtuvieron los resultados de la tesis (Python 3.10.11).
+# K-means, LSA y Louvain pueden dar particiones algo distintas con otras versiones de scikit-learn, numpy o
+# python-louvain; para reproducir las cifras exactas conviene instalar estas mismas versiones.
 
-# Procesamiento de datos y texto
-pandas>=2.2
-numpy>=2.0
-scipy>=1.15
-nltk>=3.8
-python-dateutil>=2.9
-openpyxl>=3.1
-joblib>=1.4
+# Descarga, OCR y extracción de metadatos
+requests==2.34.2
+beautifulsoup4==4.13.4
+pdf2image==1.17.0          # requiere Poppler instalado en el sistema
+pytesseract==0.3.13        # requiere Tesseract 5 con los modelos eng, spa y por
+PyMuPDF==1.20.2
+pillow==11.2.1
+rapidfuzz==3.14.1
 
-# Modelado y clusterización
-scikit-learn>=1.6
-statsmodels>=0.14
-pymannkendall>=1.4
+# Datos, texto y estadística
+pandas==2.2.3
+numpy==2.2.6
+scipy==1.15.2
+nltk==3.9.1
+scikit-learn==1.6.1
+statsmodels==0.14.5
+pymannkendall==1.4.3
 
 # Redes de colaboración
-networkx>=3.2
-python-louvain>=0.16
-pyvis>=0.3.2
+networkx==3.4.2
+python-louvain==0.16
 
-# Visualización
-matplotlib>=3.8
-seaborn>=0.13
-wordcloud>=1.9
+# Figuras
+matplotlib==3.10.1
+adjustText==1.4.0
+wordcloud==1.9.4
 
-# Notebooks
-jupyter>=1.0
+# Cuadernos
+nbformat==5.10.4
+nbclient==0.11.0
+ipykernel==6.30.1

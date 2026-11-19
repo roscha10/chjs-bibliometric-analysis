@@ -1,0 +1,28 @@
+{
+ "N": 183,
+ "nucleo": 149,
+ "nucleo_pct": 81.4,
+ "tamanos": {
+  "1": 20,
+  "2": 46,
+  "3": 32,
+  "4": 51,
+  "5": 12,
+  "6": 15,
+  "7": 7
+ },
+ "nuevos": {
+  "Semiparametric Bayesian inference for repeated fractional me": 2,
+  "A class of multivariate max-infinitely divisible distributio": 4,
+  "Non-Markov multi-state survival analysis with complex censor": 2,
+  "Short-horizon volatility spike forecasting via integrated fu": 2,
+  "On the use of the concentration function to compare predicti": 2,
+  "Maximum composite Lq-likelihood for robust spatial covarianc": 5
+ },
+ "articulos_un_pais": 133,
+ "articulos_internacionales": 50,
+ "p_mk_bh_min": 0.40483767016183697,
+ "p_poisson_bh_min": 0.04976509285542179,
+ "p_proporcion_bh_min": 0.13360627863506613,
+ "r2_max": 0.20192076830732295
+}

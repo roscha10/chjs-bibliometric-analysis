@@ -1,0 +1,285 @@
+{
+ "autores": {
+  "nodos": 377,
+  "aristas": 515,
+  "densidad": 0.007266211411479203,
+  "grado_medio": 2.7320954907161803,
+  "transitividad": 0.5620567375886525,
+  "componentes": 89,
+  "componente_gigante": 78,
+  "pct_gigante": 0.20689655172413793,
+  "comunidades": 92,
+  "modularidad": 0.9268732934257502,
+  "intermediacion_nula": 331,
+  "articulos": 160,
+  "tam_comunidades_gigante": [
+   31,
+   26,
+   13,
+   8
+  ],
+  "ego": {
+   "Gauss M. Cordeiro": {
+    "grado": 24,
+    "intermediacion": 0.0192,
+    "agrupamiento": 0.116,
+    "vecinos": [
+     "Luís H. de Santana",
+     "Edwin M.M. Ortega",
+     "Elisangela C. Biazatti",
+     "Maria do Carmo S. de Lima",
+     "Ana Percontini",
+     "Betsabé Blas",
+     "Jeremias Leão",
+     "Helton Saulo",
+     "Marcelo Bourguignon",
+     "Renato J. Cintra",
+     "Leandro Rêgo",
+     "William D. Aristizábal",
+     "Dora M. Suárez",
+     "Sébastien Lozano",
+     "Morad Alizadeh",
+     "Abraão D.C. Nascimento",
+     "Mahdi Rasekhi",
+     "M. Mansoor",
+     "Serge B. Provost",
+     "Lucas D. Ribeiro-Reis",
+     "José J. de Santana e Silva",
+     "Gabriela M. Rodrigues",
+     "Roberto Vila",
+     "Alexsandro A. Ferreira"
+    ]
+   },
+   "Vera L.D. Tomazella": {
+    "grado": 12,
+    "intermediacion": 0.0148,
+    "agrupamiento": 0.182,
+    "vecinos": [
+     "Vinicius F. Calsavara",
+     "Vicente G. Cancho",
+     "Francisco Louzada",
+     "José C. Fogo",
+     "Eder Angelo Milani",
+     "Carlos Alberto Ribeiro Diniz",
+     "Jeremias Leão",
+     "N. Balakrishnan",
+     "Helton Saulo",
+     "Agatha S. Rodrigues",
+     "Eduardo Bertolli",
+     "Stela V. Peres"
+    ]
+   },
+   "Josmar Mazucheli": {
+    "grado": 13,
+    "intermediacion": 0.0071,
+    "agrupamiento": 0.218,
+    "vecinos": [
+     "André F.B. Menezes",
+     "Francisco Louzada",
+     "Sanku Dey",
+     "Emílio A. Coelho-Barros",
+     "Taciana K.O. Shimizu",
+     "Adriano K. Suzuki",
+     "Paulo H. Ferreira",
+     "Sudeep R. Bapat",
+     "Saralees Nadarajah",
+     "Tabassum Naz Sindhu",
+     "Anum Shafiq",
+     "Gamze Ozel",
+     "Bruna Alves"
+    ]
+   },
+   "Francisco Louzada": {
+    "grado": 11,
+    "intermediacion": 0.0098,
+    "agrupamiento": 0.182,
+    "vecinos": [
+     "Vicente G. Cancho",
+     "Josmar Mazucheli",
+     "Taciana K.O. Shimizu",
+     "Adriano K. Suzuki",
+     "Paulo H. Ferreira",
+     "Vera L.D. Tomazella",
+     "Wagner Cavali",
+     "Emílio A. Coelho-Barros",
+     "Valdemiro Piedade Vigas",
+     "Giovana Oliveira Silva",
+     "Lucas Pereira Lopes"
+    ]
+   }
+  }
+ },
+ "universidades": {
+  "nodos": 176,
+  "aristas": 213,
+  "densidad": 0.013831168831168831,
+  "grado_medio": 2.4204545454545454,
+  "transitividad": 0.2974137931034483,
+  "componentes": 39,
+  "componente_gigante": 77,
+  "pct_gigante": 0.4375,
+  "comunidades": 44,
+  "modularidad": 0.7736388673116302,
+  "intermediacion_nula": 145,
+  "articulos": 114,
+  "tam_comunidades_gigante": [
+   24,
+   17,
+   14,
+   10,
+   9,
+   3
+  ],
+  "ego": {
+   "Universidade de São Paulo (Brazil)": {
+    "grado": 19,
+    "intermediacion": 0.0819,
+    "agrupamiento": 0.123,
+    "vecinos": [
+     "Universidade Estadual de Maringá (Brazil)",
+     "Universidade Federal da Bahia (Brazil)",
+     "Universidade Federal de Pernambuco (Brazil)",
+     "Pontificia Universidad Católica de Chile (Chile)",
+     "Universidade Estadual do Oeste do Paraná (Brazil)",
+     "Universidade Federal de Mato Grosso do Sul (Brazil)",
+     "Universidade Federal de São Carlos (Brazil)",
+     "IniSEB Centro Universitário (Brazil)",
+     "Maastricht University (Netherlands)",
+     "Pontificia Universidad Católica del Perú (Peru)",
+     "Universidad Nacional de Córdoba (Argentina)",
+     "Universidad del Pacífico (Peru)",
+     "Universidade Estadual de Campinas (Brazil)",
+     "Universidade Federal de Rondônia (Brazil)",
+     "Universidade Federal do Paraná (Brazil)",
+     "Universidade Federal do Rio Grande do Norte (Brazil)",
+     "Universidade Tecnológica Federal do Paraná (Brazil)",
+     "Universidade de Brasília (Brazil)",
+     "University of Connecticut (United States)"
+    ]
+   },
+   "Universidade Federal de Pernambuco (Brazil)": {
+    "grado": 22,
+    "intermediacion": 0.0855,
+    "agrupamiento": 0.087,
+    "vecinos": [
+     "Universidade Estadual de Maringá (Brazil)",
+     "Universidade de São Paulo (Brazil)",
+     "Universidade Federal de Rondônia (Brazil)",
+     "Banco do Nordeste do Brasil S.A (Brazil)",
+     "Government Sadiq Egerton College (Pakistan)",
+     "Hacettepe University (Turkey)",
+     "Malayer University (Iran)",
+     "Nanjing University of Information Science and Technology (China)",
+     "Persian Gulf University (Iran)",
+     "Pontificia Universidad Católica de Chile (Chile)",
+     "Quaid-i-Azam University (Pakistan)",
+     "Universidade Estadual de Feira de Santana (Brazil)",
+     "Universidade Estadual do Oeste do Paraná (Brazil)",
+     "Universidade Federal de Alagoas (Brazil)",
+     "Universidade Federal do Ceará (Brazil)",
+     "Universidade Federal do Piauí (Brazil)",
+     "Universidade Federal do Rio Grande do Norte (Brazil)",
+     "Universidade Federal do Rio Grande do Sul (Brazil)",
+     "Universidade de Brasília (Brazil)",
+     "University of Western Ontario (Canada)",
+     "VSB - Technical University of Ostrava (Czech Republic)",
+     "Victoria University of Wellington (New Zealand)"
+    ]
+   },
+   "Pontificia Universidad Católica de Chile (Chile)": {
+    "grado": 12,
+    "intermediacion": 0.0586,
+    "agrupamiento": 0.121,
+    "vecinos": [
+     "Interdisciplinary Laboratory of Social Statistics (Chile)",
+     "Millennium Nucleus on Intergenerational Mobility (MOVI) (Chile)",
+     "Universidade de São Paulo (Brazil)",
+     "Université Catholique de Louvain (Belgium)",
+     "Caja de Compensación Los Andes (Chile)",
+     "Texas A&M University (United States)",
+     "Universidad de Concepción (Chile)",
+     "Universidad de Talca (Chile)",
+     "Universidade Estadual de Campinas (Brazil)",
+     "Universidade Estadual do Oeste do Paraná (Brazil)",
+     "Universidade Federal de Pernambuco (Brazil)",
+     "University of Rostock (Germany)"
+    ]
+   }
+  }
+ },
+ "paises": {
+  "nodos": 39,
+  "aristas": 59,
+  "densidad": 0.0796221322537112,
+  "grado_medio": 3.0256410256410255,
+  "transitividad": 0.32342007434944237,
+  "componentes": 4,
+  "componente_gigante": 30,
+  "pct_gigante": 0.7692307692307693,
+  "comunidades": 9,
+  "modularidad": 0.4209660664819944,
+  "intermediacion_nula": 20,
+  "articulos": 50,
+  "tam_comunidades_gigante": [
+   8,
+   7,
+   5,
+   4,
+   4,
+   2
+  ],
+  "ego": {
+   "Brazil": {
+    "grado": 15,
+    "intermediacion": 0.3059,
+    "agrupamiento": 0.171,
+    "vecinos": [
+     "United States",
+     "Chile",
+     "Canada",
+     "India",
+     "Pakistan",
+     "Argentina",
+     "China",
+     "Czech Republic",
+     "Iran",
+     "Netherlands",
+     "New Zealand",
+     "Peru",
+     "Portugal",
+     "Turkey",
+     "UK"
+    ]
+   },
+   "Chile": {
+    "grado": 7,
+    "intermediacion": 0.1542,
+    "agrupamiento": 0.143,
+    "vecinos": [
+     "Brazil",
+     "Belgium",
+     "Argentina",
+     "Colombia",
+     "Germany",
+     "Portugal",
+     "United States"
+    ]
+   },
+   "United States": {
+    "grado": 8,
+    "intermediacion": 0.1119,
+    "agrupamiento": 0.286,
+    "vecinos": [
+     "Brazil",
+     "Egypt",
+     "Iran",
+     "Chile",
+     "Italy",
+     "New Zealand",
+     "Peru",
+     "Turkey"
+    ]
+   }
+  }
+ }
+}

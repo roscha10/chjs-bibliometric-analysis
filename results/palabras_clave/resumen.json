@@ -1,0 +1,50 @@
+{
+ "palabras_clave_antes": 720,
+ "palabras_clave_distintas": 697,
+ "articulos_con_palabras_clave": 181,
+ "pares_articulo_palabra": 869,
+ "una_sola_vez": 611,
+ "presentes_3_o_mas_anios": 26,
+ "glm_modelos": 26,
+ "glm_min_p": 0.02703864737728271,
+ "glm_min_p_bh": 0.6065912911707562,
+ "glm_significativas_bh": 0,
+ "top25": [
+  "maximum likelihood",
+  "monte carlo simulation",
+  "bayesian inference",
+  "mean squared error",
+  "censored data",
+  "functional data analysis",
+  "order statistics",
+  "birnbaum-saunders distribution",
+  "moment",
+  "bias",
+  "r software",
+  "goodness-of-fit",
+  "t-x family",
+  "asymptotic normality",
+  "weibull distribution",
+  "geostatistics",
+  "mcmc",
+  "bootstrapping",
+  "generalized distributions",
+  "entropy",
+  "spatial autocorrelation",
+  "heavy-tailed distributions",
+  "symmetric distributions",
+  "extreme-value distribution",
+  "skew-normal distribution"
+ ],
+ "validaciones": {
+  "rho": {
+   "frecuencia_total": 0.9999396105612336,
+   "persistencia": 0.5656463503712462,
+   "pendiente": 0.4590911711479681
+  },
+  "cambio_24": 0.040000000000000036,
+  "cambio_26": 0.04,
+  "n_positivas": 15,
+  "cobertura_positivas": 1.0
+ }
+}

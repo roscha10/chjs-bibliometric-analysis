@@ -1,0 +1,24 @@
+{
+ "primera_pasada": {
+  "titulo": 99.5,
+  "resumen": 100.0,
+  "palabras_clave": 99.8,
+  "n_autores": 100.0,
+  "autores": 99.8,
+  "afiliacion_autor": 86.1,
+  "pais_autor": 90.5,
+  "afiliaciones_articulo": 100.0,
+  "paises_articulo": 99.5
+ },
+ "dos_pasadas": {
+  "titulo": 99.5,
+  "resumen": 100.0,
+  "palabras_clave": 99.8,
+  "n_autores": 100.0,
+  "autores": 99.8,
+  "afiliacion_autor": 99.5,
+  "pais_autor": 99.1,
+  "afiliaciones_articulo": 100.0,
+  "paises_articulo": 99.5
+ }
+}

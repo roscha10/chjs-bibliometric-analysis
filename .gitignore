@@ -1,3 +1,15 @@
+# PDF de los artículos: se descargan con chjs.descarga (ver data/raw/README.md)
+*.pdf
+!results/figures/*.pdf
+!tesis/*.pdf
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
+
+# imágenes de revisión de la validación OCR (se regeneran con scripts/muestra_referencia.py)
+results/validacion/muestra_referencia/
+
+tessdata/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/

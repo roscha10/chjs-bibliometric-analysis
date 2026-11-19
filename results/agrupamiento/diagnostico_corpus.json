@@ -1,0 +1,49 @@
+{
+ "documentos": 183,
+ "mediana": 90.0,
+ "media": 94.91803278688525,
+ "minimo": 21,
+ "maximo": 228,
+ "top10": [
+  [
+   "using",
+   127
+  ],
+  [
+   "distribution",
+   113
+  ],
+  [
+   "model",
+   108
+  ],
+  [
+   "proposed",
+   107
+  ],
+  [
+   "estimators",
+   99
+  ],
+  [
+   "simulation",
+   88
+  ],
+  [
+   "method",
+   80
+  ],
+  [
+   "based",
+   79
+  ],
+  [
+   "parameters",
+   79
+  ],
+  [
+   "paper",
+   75
+  ]
+ ]
+}
